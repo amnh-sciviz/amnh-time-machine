@@ -3,6 +3,8 @@ import os
 import requests
 from urllib.parse import urlparse
 
+import lib.math_utils as mu
+
 def downloadFile(url, dir, filename=None, save=True, overwrite=False):
     if filename is None:
         urlObj = urlparse.urlparse(url)
@@ -43,3 +45,40 @@ def makeDirectories(filenames):
         dirname = os.path.dirname(filename)
         if not os.path.exists(dirname):
             os.makedirs(dirname)
+
+def readCsv(filename, headings=False, verbose=True):
+    rows = []
+    fieldnames = []
+    if os.path.isfile(filename):
+        with open(filename, 'r', encoding="utf8") as f:
+            lines = list(f)
+            reader = csv.DictReader(lines, skipinitialspace=True)
+            fieldnames = list(reader.fieldnames)
+            rows = list(reader)
+            rows = mu.parseNumbers(rows)
+            if verbose:
+                print("Read %s rows from %s" % (len(rows), filename))
+    return (fieldnames, rows)
+
+def writeCsv(filename, arr, headings="auto", append=False, verbose=True):
+    if headings == "auto":
+        headings = arr[0].keys()
+    mode = 'w' if not append else "a"
+
+    with open(filename, mode, encoding="utf8") as f:
+
+        writer = csv.writer(f)
+        if not append:
+            writer.writerow(headings)
+
+        for i, d in enumerate(arr):
+            row = []
+            for h in headings:
+                value = ""
+                if h in d:
+                    value = d[h]
+                row.append(value)
+            writer.writerow(row)
+
+        if verbose:
+            print("Wrote %s rows to %s" % (len(arr), filename))
