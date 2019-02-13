@@ -1,5 +1,7 @@
+import csv
 import json
 import os
+import re
 import requests
 from urllib.parse import urlparse
 
@@ -53,7 +55,8 @@ def readCsv(filename, headings=False, verbose=True):
         with open(filename, 'r', encoding="utf8") as f:
             lines = list(f)
             reader = csv.DictReader(lines, skipinitialspace=True)
-            fieldnames = list(reader.fieldnames)
+            if len(lines) > 0:
+                fieldnames = list(reader.fieldnames)
             rows = list(reader)
             rows = mu.parseNumbers(rows)
             if verbose:
@@ -77,6 +80,8 @@ def writeCsv(filename, arr, headings="auto", append=False, verbose=True):
                 value = ""
                 if h in d:
                     value = d[h]
+                    if isinstance(value, str):
+                        value = re.sub('\s+', ' ', value).strip() # clean whitespaces
                 row.append(value)
             writer.writerow(row)
 
