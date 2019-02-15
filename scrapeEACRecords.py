@@ -11,8 +11,8 @@ import lib.io_utils as io
 # input
 parser = argparse.ArgumentParser()
 parser.add_argument('-url', dest="URL", default="http://data.library.amnh.org/archives-authorities/feed/?q=*:*", help="Feed url")
-parser.add_argument('-fdir', dest="FEED_DIR", default="data/eac_feed/", help="Directory to store EAC feed data")
-parser.add_argument('-rdir', dest="RECORD_DIR", default="data/eac_records/", help="Directory to store EAC record data")
+parser.add_argument('-fdir', dest="FEED_DIR", default="downloads/eac_feed/", help="Directory to store EAC feed data")
+parser.add_argument('-rdir', dest="RECORD_DIR", default="downloads/eac_records/", help="Directory to store EAC record data")
 parser.add_argument('-rformat', dest="RECORD_FILEFORMAT", default=".xml", help="Record file format (.jsonld, .xml, , .rdf, .kml)")
 parser.add_argument('-overwrite', dest="OVERWRITE", action="store_true", help="Overwrite existing data?")
 a = parser.parse_args()

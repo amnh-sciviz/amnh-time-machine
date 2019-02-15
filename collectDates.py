@@ -12,7 +12,7 @@ import lib.io_utils as io
 
 # input
 parser = argparse.ArgumentParser()
-parser.add_argument('-rdir', dest="RECORD_DIR", default="data/eac_records/*.xml", help="Directory with EAC records")
+parser.add_argument('-rdir', dest="RECORD_DIR", default="downloads/eac_records/*.xml", help="Directory with EAC records")
 parser.add_argument('-out', dest="OUTPUT_FILE", default="data/eac_dates.csv", help="File to compile records to")
 a = parser.parse_args()
 
