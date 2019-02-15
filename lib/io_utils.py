@@ -3,14 +3,33 @@ import json
 import os
 import re
 import requests
+import shutil
 from urllib.parse import urlparse
 
 import lib.math_utils as mu
 
+def downloadBinaryFile(url, dir, filename, overwrite=False):
+    if filename is None:
+        filename = getFilenameFromUrl(url)
+    if len(filename) <= 0:
+        print("Please indicate a filename for %s" % url)
+        return False
+
+    filename = dir + filename
+
+    if os.path.isfile(filename) and not overwrite:
+        print("%s already exists." % filename)
+        return True
+
+    print("Downloading %s..." % url)
+    response = requests.get(url, stream=True)
+    with open(filename, 'wb') as f:
+        shutil.copyfileobj(response.raw, f)
+    del response
+
 def downloadFile(url, dir, filename=None, save=True, overwrite=False):
     if filename is None:
-        urlObj = urlparse.urlparse(url)
-        filename = os.path.basename(urlObj.path)
+        filename = getFilenameFromUrl(url)
     if len(filename) <= 0:
         filename = "file.dat"
 
@@ -39,6 +58,14 @@ def downloadFile(url, dir, filename=None, save=True, overwrite=False):
                 f.write(contents)
 
     return contents
+
+def getFileextFromUrl(url):
+    filename = getFilenameFromUrl(url)
+    return "." + filename.split(".")[-1]
+
+def getFilenameFromUrl(url):
+    urlObj = urlparse(url)
+    return os.path.basename(urlObj.path)
 
 def makeDirectories(filenames):
     if not isinstance(filenames, list):
