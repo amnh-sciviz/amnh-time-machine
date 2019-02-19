@@ -1,0 +1,209 @@
+body {
+  font-family: "Courier New", Monospace;
+  background: url(../img/wood_tile2.jpg) repeat black;
+}
+
+a {
+  color: #5d0a0a;
+}
+.app {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+  margin: 0;
+  letter-spacing: 5px;
+  color: white;
+}
+.slider-container {
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  padding: 0 10px;
+}
+.slider {
+  background: black;
+  position: relative;
+  height: 20px;
+  display: block;
+  width: 80%;
+  margin: 40px auto 0;
+}
+.ui-slider-handle {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  margin-left: -30px;
+  top: 50%;
+  margin-top: -30px;
+  border-radius: 50%;
+  background: white;
+  cursor: ew-resize;
+  background: #fff;
+}
+.dashboard {
+  height: calc(100vh - 160px);
+  width: 100%;
+  position: relative;
+  background: url(../img/wood_tile_small.png) repeat brown;
+  box-sizing: border-box;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  box-shadow: inset 0 0 20px 20px rgba(0,0,0,0.33);
+  /* overflow: hidden; */
+  overflow-y: scroll;
+}
+
+.panel {
+  box-sizing: border-box;
+  padding: 10px;
+  position: relative;
+}
+.panel.left {
+  width: 25%;
+  float: left;
+}
+.panel.right {
+  width: 25%;
+  float: right;
+}
+.panel.middle {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: auto;
+}
+.panel h2 {
+  margin: 0 0 10px;
+  font-size: 20px;
+}
+
+.box {
+  box-sizing: border-box;
+  padding: 10px;
+  background: #fff;
+  min-height: 180px;
+}
+
+.box.logo {
+  min-height: 0;
+}
+.logo img {
+  max-width: 100%;
+  max-height: 100px;
+  width: auto;
+  height: auto;
+}
+
+.report img {
+  width: 80%;
+  height: auto;
+  display: block;
+}
+
+.items a {
+  display: inline-block;
+  margin: 0 5px 5px 0;
+}
+.items img {
+  display: inline-block;
+  width: 90px;
+  height: auto;
+}
+
+.expeditions a {
+  display: block;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+  text-decoration: none;
+}
+.expeditions a small {
+  display: block;
+  margin-top: 5px;
+}
+.expeditions a .place {
+  display: block;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+.expeditions a:last-child {
+  border: none;
+}
+
+.floor-plan {
+  margin-left: 60px;
+  width: auto;
+  position: relative;
+  background: white;
+  min-height: calc(100vh - 200px);
+}
+.floor-plan img {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: 10px;
+  left: 0;
+  opacity: 0;
+}
+.floor-plan img.selected {
+  opacity: 1;
+}
+.floor-menu {
+  float: left;
+  width: 60px;
+  background: white;
+  text-align: center;
+}
+.floor-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.floor-menu ul a {
+  font-size: 30px;
+  text-decoration: none;
+  display: block;
+  padding: 1rem;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+.floor-menu ul a.selected {
+  font-weight: bold;
+  color: black;
+  border-right: 1px solid transparent;
+}
+.floor-menu ul li:last-child a {
+  border-bottom: none;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+@media (orientation: portrait) or (max-width: 800px) {
+  .app {
+    width: 100%;
+    height: auto;
+    position: relative;
+    overflow: auto;
+  }
+}

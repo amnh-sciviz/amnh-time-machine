@@ -14,6 +14,49 @@
 
 <body>
 
+  <div class="app">
+    <h1>AMNH Time Machine</h1>
+    <div class="dashboard">
+      <div class="panels clearfix">
+        <div class="panel left">
+          <div class="box logo">
+            <img id="logo" src="img/logos/2016.png" alt="AMNH logo" />
+          </div>
+          <div class="box report clearfix">
+            <h2>Annual report</h2>
+            <div id="report" class="report"></div>
+          </div>
+        </div>
+        <div class="panel right">
+          <div class="box items clearfix">
+            <h2>Historic images</h2>
+            <div id="items" class="items"></div>
+          </div>
+          <div class="box">
+            <h2>Expeditions</h2>
+            <div id="expeditions" class="expeditions"></div>
+          </div>
+        </div>
+        <div class="panel middle clearfix">
+          <nav class="floor-menu" aria-label="Select floor plan floor">
+            <ul>
+              <li><a href="#floor4" class="floor-link floor" data-floor="4">4</a></li>
+              <li><a href="#floor3" class="floor-link floor" data-floor="3">3</a></li>
+              <li><a href="#floor2" class="floor-link floor" data-floor="2">2</a></li>
+              <li><a href="#floor1" class="floor-link floor selected" data-floor="1" class="selected">1</a></li>
+            </ul>
+          </nav>
+          <div id="floor-plan" class="floor-plan"></div>
+        </div>
+      </div>
+    </div>
+    <div class="slider-container">
+      <div id="slider" class="slider">
+        <div id="custom-handle" class="ui-slider-handle"></div>
+      </div>
+    </div>
+  </div>
+
   <script src="js/vendor/jquery-3.3.1.min.js"></script>
   <script src="js/vendor/underscore-min.js"></script>
   <script src="js/vendor/jquery-ui.slider.min.js"></script>

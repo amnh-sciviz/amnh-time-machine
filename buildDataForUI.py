@@ -15,7 +15,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-fdir', dest="FLOOR_PLANS_DIR", default="data/floor_plans/%s/*.png", help="Directory with floor plans")
 parser.add_argument('-rdir', dest="REPORTS_DIR", default="img/annual_reports/%s.jpg", help="Directory with reports")
 parser.add_argument('-ldir', dest="LOGOS_DIR", default="img/logos/*.png", help="Directory with logos")
-parser.add_argument('-idir', dest="ITEMS_DIR", default="img/logos/%s.jpg", help="Directory with items")
+parser.add_argument('-idir', dest="ITEMS_DIR", default="img/historic_thumbnails/%s.jpg", help="Directory with items")
 parser.add_argument('-reports', dest="REPORTS_FILE", default="data/annual_reports.csv", help="File with annual report data (from scrapeAnnualReports.py)")
 parser.add_argument('-dates', dest="EAC_DATES_FILE", default="data/eac_dates.csv", help="File with EAC dates data (from collectDates.py)")
 parser.add_argument('-items', dest="ITEMS_FILE", default="data/historic_images.csv", help="File with digital items data (from scrapeDigitalItems.py)")
@@ -33,7 +33,7 @@ def addRanges(items, startYear, endYear):
     itemCount = len(items)
     sortedItems = sorted(items, key=lambda k:k["year"])
     for i, item in enumerate(sortedItems):
-        fromYear = item["year"]
+        fromYear = item["year"] if i > 0 else startYear
         toYear = endYear
         j = i+1
         while j < itemCount:
@@ -54,14 +54,16 @@ for i in range(FLOORS):
     floor = i + 1
     floorDir = a.FLOOR_PLANS_DIR % floor
     floorPlanFiles = glob.glob(floorDir)
+    thisFloorPlans = []
     for fn in floorPlanFiles:
         year = int(io.getFileBasename(fn))
-        floorPlans.append({
+        thisFloorPlans.append({
             "image": fn,
             "floor": floor,
             "year": year
         })
-floorPlans = addRanges(floorPlans, a.START_YEAR, a.END_YEAR)
+    thisFloorPlans = addRanges(thisFloorPlans, a.START_YEAR, a.END_YEAR)
+    floorPlans += thisFloorPlans
 
 # Retrieve logos
 logos = []
