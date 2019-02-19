@@ -59,9 +59,17 @@ def downloadFile(url, dir, filename=None, save=True, overwrite=False):
 
     return contents
 
+def getFileBasename(filename):
+    basename = os.path.basename(filename)
+    ext = getFileext(basename)
+    return basename[:-len(ext)]
+
+def getFileext(filename):
+    return "." + filename.split(".")[-1]
+
 def getFileextFromUrl(url):
     filename = getFilenameFromUrl(url)
-    return "." + filename.split(".")[-1]
+    return getFileext(filename)
 
 def getFilenameFromUrl(url):
     urlObj = urlparse(url)
