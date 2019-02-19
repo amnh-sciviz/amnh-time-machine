@@ -15,6 +15,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-fdir', dest="FLOOR_PLANS_DIR", default="data/floor_plans/%s/*.png", help="Directory with floor plans")
 parser.add_argument('-rdir', dest="REPORTS_DIR", default="img/annual_reports/%s.jpg", help="Directory with reports")
 parser.add_argument('-ldir', dest="LOGOS_DIR", default="img/logos/*.png", help="Directory with logos")
+parser.add_argument('-idir', dest="ITEMS_DIR", default="img/logos/%s.jpg", help="Directory with items")
 parser.add_argument('-reports', dest="REPORTS_FILE", default="data/annual_reports.csv", help="File with annual report data (from scrapeAnnualReports.py)")
 parser.add_argument('-dates', dest="EAC_DATES_FILE", default="data/eac_dates.csv", help="File with EAC dates data (from collectDates.py)")
 parser.add_argument('-items', dest="ITEMS_FILE", default="data/historic_images.csv", help="File with digital items data (from scrapeDigitalItems.py)")
@@ -98,7 +99,7 @@ for item in itemData:
         items.append({
             "title": item["title"],
             "url": item["url"],
-            "image": item["thumbUrl"],
+            "image": a.ITEMS_DIR % item["id"],
             "year": year
         })
     else:
@@ -110,6 +111,7 @@ _, eacData = io.readCsv(a.EAC_DATES_FILE)
 eacData = [e for e in eacData if e["type"]=="Expedition"]
 for e in eacData:
     entry = {
+        "url": "http://data.library.amnh.org/archives-authorities/id/" + e["id"],
         "title": e["name"],
         "event": e["dateevent"],
         "place": e["dateplace"]
