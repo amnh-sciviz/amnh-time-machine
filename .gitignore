@@ -1,3 +1,4 @@
 *.pyc
 downloads/*
 !downloads/.keep
+node_modules/

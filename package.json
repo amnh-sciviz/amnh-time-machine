@@ -1,0 +1,10 @@
+{
+  "name": "amnh-time-machine",
+  "description": "AMNH time machine",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
