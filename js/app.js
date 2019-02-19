@@ -40,8 +40,10 @@ var App = (function() {
   };
 
   App.prototype.changeFloor = function(floor){
+    floor = parseInt(floor);
     $(".floor").removeClass("selected");
     $('.floor[data-floor="'+floor+'"]').addClass("selected");
+    this.selectedFloor = floor;
   };
 
   App.prototype.loadUI = function(){
