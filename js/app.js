@@ -6,7 +6,7 @@ var App = (function() {
     var defaults = {
       "dataUrl": "data/ui.json",
       "startYear": 2016,
-      "maxItems": 9,
+      "maxItems": 18,
       "maxExpeditions": 20
     };
     this.opt = _.extend({}, defaults, config);
