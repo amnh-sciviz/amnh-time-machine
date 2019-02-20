@@ -85,6 +85,10 @@ var App = (function() {
       _this.changeFloor($(this).attr("data-floor"))
     });
 
+    $(".rotate-link").on("click", function(e){
+      _this.rotateFloorPlan($(this).hasClass("rotated"));
+    });
+
   };
 
   App.prototype.onDataLoad = function(data){
@@ -193,6 +197,15 @@ var App = (function() {
     var $report = $("<div />");
     $report.append('<a href="'+report.url+'"><img src="'+report.image+'" alt="'+report.title+'" />'+report.title+'</a>');
     this.$report.html($report);
+  };
+
+  App.prototype.rotateFloorPlan = function(rotated){
+    var $link = $(".rotate-link");
+    if (rotated) {
+      $(".rotate-link, .floor-plan").removeClass("rotated");
+    } else {
+      $(".rotate-link, .floor-plan").addClass("rotated");
+    }
   };
 
   return App;
