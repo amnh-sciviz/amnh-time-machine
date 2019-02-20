@@ -180,7 +180,7 @@ var App = (function() {
     var $items = $("<div />");
     _.each(items, function(item, i){
       var selected = item.floor === selectedFloor ? "selected" : "";
-      $items.append($('<img src="'+item.image+'" class="'+selected+' floor" data-floor="'+(i+1)+'" alt="Floor plan '+(i+1)+'" />'))
+      $items.append($('<img src="'+item.image+'" class="'+selected+' floor" data-floor="'+(i+1)+'" title="'+item.year+' Floor plan '+(i+1)+'" alt="'+item.year+' Floor plan '+(i+1)+'" />'))
     });
     this.$floorplans.html($items);
   };

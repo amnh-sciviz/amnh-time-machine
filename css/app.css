@@ -198,6 +198,7 @@ h1 {
 }
 .floor-plan img.selected {
   opacity: 1;
+  z-index: 5;
 }
 .floor-menu {
   position: absolute;
