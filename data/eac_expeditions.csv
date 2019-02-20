@@ -1,0 +1,791 @@
+id,type,name,date,fromdate,todate,datetype,dateevent,datename,daterelation,dateplace,lon,lat,match
+amnhc_2000002,Expedition,Elliott-Richardson Expedition to Montana,1869,,,existdates,,,,,-110.362566,46.879682,Montana
+amnhc_2000003,Expedition,Richardson Expedition to Maine,1888,,,existdates,,,,Maine,-69.445469,45.253783,Maine
+amnhc_2000004,Expedition,Richardson-Rowley Expedition to Indian Territory of Panhandle of Texas,1889,,,existdates,,,,"Indian Territory, Panhandle of Texas",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000005,Expedition,E. A. Mearns Arizona Expedition,1889,,,existdates,,,,"Indian Territory, Panhandle of Texas",-111.093731,34.048928,Arizona
+amnhc_2000006,Expedition,Audley C. Buller Southern Mexico Expedition,1889,,,existdates,,,,"Indian Territory, Panhandle of Texas",-105.032363,34.97273,New Mexico
+amnhc_2000007,Expedition,Clark P. Streator British Columbia Expedition,1889,,,existdates,,,,"Indian Territory, Panhandle of Texas",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000008,Expedition,Chapman Expeditions to Florida,1889,,,existdates,,,,"Indian Territory, Panhandle of Texas",-81.515754,27.664827,Florida
+amnhc_2000009,Expedition,W.E.D. Scott Expedition to Florida,1890,,,existdates,,,,"Florida, mainly along coast",-81.515754,27.664827,Florida
+amnhc_2000010,Expedition,Lumholtz Expeditions to Mexico (1890-1898),1890,,,existdates,,,,"Florida, mainly along coast",-105.032363,34.97273,New Mexico
+amnhc_2000011,Expedition,Wortman Expeditions,1890,,,existdates,,,,"Florida, mainly along coast",,,
+amnhc_2000012,Expedition,Explore21 Expedition to Papua New Guinea,2014,,,existdates,,,,Papua New Guinea (interior),143.95555,-6.314993,Papua New Guinea
+amnhc_2000013,Expedition,Chapman Field Trip to Texas,1891-03,,,existdates,,,,Corpus Christi (Texas),-99.901813,31.968599,Texas
+amnhc_2000014,Expedition,Illustrated American Expedition to the San Juan Region (1892),1892,,,existdates,,,,"San Juan region (Colo.), New Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000015,Expedition,Richardson Expedition to Florida (1892),1892,,,existdates,,,,"Brevard County, Florida",-81.515754,27.664827,Florida
+amnhc_2000016,Expedition,Mearns Expedition to Minnesota,1892,,,existdates,,,,Minnesota,-94.6859,46.729553,Minnesota
+amnhc_2000017,Expedition,Villard-Bandelier Expedition to Peru and Bolivia,1892,,,existdates,,,,Minnesota,-63.588653,-16.290154,Bolivia
+amnhc_2000018,Expedition,Wortman Expedition to the Rocky Mountains,1892,,,existdates,,,,Minnesota,-94.6859,46.729553,Minnesota
+amnhc_2000019,Expedition,Chapman Expedition to Cuba,1892,,,existdates,,,,Minnesota,-77.781167,21.521757,Cuba
+amnhc_2000020,Expedition,Wortman Expedition to the Rocky Mountains,1895,,,existdates,,,,"Bridger Basin, Wyoming",-107.290284,43.075968,Wyoming
+amnhc_2000021,Expedition,Trinidad Expeditions,1894,,,existdates,,,,South Central Trinidad Expeditions,-61.222503,10.691803,Trinidad and Tobago
+amnhc_2000021,Expedition,Trinidad Expeditions,,1893,1894,existdates,,,,South Central Trinidad Expeditions,-61.222503,10.691803,Trinidad and Tobago
+amnhc_2000022,Expedition,New Brunswick Expedition of the American Museum of Natural History (1893),1894,,,existdates,,,,South Central Trinidad Expeditions,-61.222503,10.691803,Trinidad and Tobago
+amnhc_2000023,Expedition,Boas Expedition to Northwest Territories,1894,,,existdates,,,,South Central Trinidad Expeditions,35.233154,31.952162,Palestinian Territories
+amnhc_2000024,Expedition,Honduras Expedition,1894,,,existdates,,,,South Central Trinidad Expeditions,-86.241905,15.199999,Honduras
+amnhc_2000025,Expedition,Weber Expedition to Sumatra,1894,,,existdates,,,,South Central Trinidad Expeditions,-61.222503,10.691803,Trinidad and Tobago
+amnhc_2000026,Expedition,Wortman Paleontological Expeditions,1894,,,existdates,,,,South Central Trinidad Expeditions,-61.222503,10.691803,Trinidad and Tobago
+amnhc_2000027,Expedition,Peary Expedition to Greenland (5th : 1895),1895,,,existdates,,,,Greenland,-42.604303,71.706936,Greenland
+amnhc_2000028,Expedition,Bone Cabin Quarry,1895,,,existdates,,,,Greenland,-42.604303,71.706936,Greenland
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1893,,,place,,,,Chaco Canyon,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1902,,,place,,,,Chaco Canyon,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1888-12,,,chronitem,Richard Wetherill and Charles C. Mason rediscover Cliff Palace while searching for a stray calf.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1888-05,,,chronitem,"An “Ancient Aztec Relics Collection ” excavated by Richard Wetherill and companions is displayed in Durango and later Denver, Colorado. The Colorado Historical Society purchases this “First Wetherill Collection” to prevent its removal from the state.",,,,-105.782067,39.550051,Colorado
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1892-08-12,,,chronitem,"Fred Hyde Sr., Fred Hyde Jr., and Benny Talbot Babbit Hyde visited cliff dwellings of Mesa Verde, Guided by “Richard.”",,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1894,,,chronitem,Richard Wetherill takes the Hyde brothers on an expedition to Grand Gulch.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1895,,,chronitem,Hyde brothers donate collection to AMNH.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1896,,,chronitem,George Pepper named Assistant Curator of the Department of the Southwest and field director for Hyde Expeditions in Pueblo Bonito from 1896-1899.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1897,,,chronitem,Hyde brothers donate second collection to AMNH,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1900,,,chronitem,Sante Fe Historical Society passes resolution against Hyde Exploring Expedition for “spoliation” of ruins.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1902,,,chronitem,Federal Land Office restraining order against Hyde Exploring Expedition.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1902-10,,,chronitem,AMNH hosts International Congress of Americanists and displays finds from Hyde Exploring Expedition.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1903,,,chronitem,Hyde Exploring Expedition incorporated in New Mexico.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1906,,,chronitem,Antiquities Act.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1907,,,chronitem,Chaco Canyon National Monument established.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1908,,,chronitem,B.T.B. Hyde transfers part of collection deposited with AMNH to the University of Pennsylvania.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1910,,,chronitem,Richard Wetherill is murdered.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1916,,,chronitem,"B.T.B. Hyde sells part of his collection to Gustav Heye, founder of the Museum of the American Indian in New York.",,,,71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1920,,,chronitem,Cartier Expedition goes back to Grand Gulch with B.T.B Hyde in effort to identify provenance of items remaining in AMNH collection.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1930,,,chronitem,Works Progress Administration hires workers to type field notes in AMNH Anthropology Department from Hyde Exploring Expeditions.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1987,,,chronitem,Chaco Canyon named a UNESCO World Heritage Site.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1990,,,chronitem,Wetherill-Grand Gulch Research Symposium.,,,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1920,,,cpfrelation,,,Cartier Expedition,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1899,,,cpfrelation,,,"Putnam, Frederick W.",,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1899,,,cpfrelation,,,"Dodge, R. E.",,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1891,,,cpfrelation,,,"Nordenskiöld, Gustaf von",,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1890,,,cpfrelation,,,"Powell, John Wesley",,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1892,,,cpfrelation,,,Sixth Minneapolis Industrial Exposition,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1893,,,cpfrelation,,,World's Columbian Exposition,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1901,,,cpfrelation,,,New Mexico State Fair,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1904,,,cpfrelation,,,Louisiana Purchase Exposition,,,,
+amnhc_2000029,Expedition,Hyde Exploring Expedition,1899,,,cpfrelation,,,Aleš Hrdlička,,,,
+amnhc_2000030,Expedition,Volk Expedition,1902,,,existdates,,,,"Trenton, New Jersey",-74.405661,40.058324,New Jersey
+amnhc_2000030,Expedition,Volk Expedition,,1901,1902,existdates,,,,"Trenton, New Jersey",-74.405661,40.058324,New Jersey
+amnhc_2000031,Expedition,Saville Expeditions to Mexico (1896-1904),1902,,,existdates,,,,"Trenton, New Jersey",-105.032363,34.97273,New Mexico
+amnhc_2000032,Expedition,Chapman Expedition to Yucatan,1896-03,,,existdates,,,,Yucatan,,,
+amnhc_2000033,Expedition,Peary Expedition to Greenland (6th : 1896),1896,,,existdates,,,,Greenland,-42.604303,71.706936,Greenland
+amnhc_2000036,Expedition,Chapman Expedition to Mexico,1897-04,,,existdates,,,,"Jalapa, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000037,Expedition,Hovey Geological Expedition,1898,,,existdates,,,,"Russia, Italy",12.56738,41.87194,Italy
+amnhc_2000038,Expedition,Jesup North Pacific Expedition (1897-1902),1898,,,existdates,,,,"Russia, Italy",12.56738,41.87194,Italy
+amnhc_2000039,Expedition,Patagonian Expedition (1899-1900),1898,,,existdates,,,,"Russia, Italy",12.56738,41.87194,Italy
+amnhc_2000040,Expedition,Jesup Arapaho Expedition (1899-1901),1898,,,existdates,,,,"Russia, Italy",12.56738,41.87194,Italy
+amnhc_2000041,Expedition,Huntington Expeditions to California,1904,,,existdates,,,,"Maidu Pit River and Shasta Indian Tribes, Northern California",-119.417932,36.778261,California
+amnhc_2000042,Expedition,Smith Colombian Expedition (1898-1901),1904,,,existdates,,,,"Maidu Pit River and Shasta Indian Tribes, Northern California",-119.417932,36.778261,California
+amnhc_2000043,Expedition,Central American Expedition,1900,,,existdates,,,,"Colombia, Costa Rica",-83.753428,9.748917,Costa Rica
+amnhc_2000044,Expedition,Vertebrate Paleontology Expeditions,1900,,,existdates,,,,"Laramie Beds, Wyoming",-107.290284,43.075968,Wyoming
+amnhc_2000045,Expedition,Villard Expedition to Oregon,1900,,,existdates,,,,"Laramie Beds, Wyoming",-120.554201,43.804133,Oregon
+amnhc_2000046,Expedition,Anthropology Expeditions,1901,,,existdates,,,,"Eastern and Western United States, Central America, Bolivia, Peru, Greenland, Siberia, Japan, Korea, China",104.195397,35.86166,China
+amnhc_2000047,Expedition,Expeditions from Department of Mammalogy and Ornithology,1901,,,existdates,,,,"Eastern and Western United States, Central America, Bolivia, Peru, Greenland, Siberia, Japan, Korea, China",104.195397,35.86166,China
+amnhc_2000048,Expedition,Andrew J. Stone Expedition (1st : 1901); Andrew J. Stone Expedition (2nd : 1902); Andrew J. Stone Expedition (3rd : 1903),1901,,,existdates,,,,"Eastern and Western United States, Central America, Bolivia, Peru, Greenland, Siberia, Japan, Korea, China",104.195397,35.86166,China
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-04,,,place,,,,Washington,-120.740139,47.751074,Washington
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-04,,,place,,,,Washington,-120.740139,47.751074,Washington
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1900-04-11,,,chronitem,Franz Boaz proposes AMNH China Expedition to Columbia University President Seth Low,,,,104.195397,35.86166,China
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1900-11-27,,,chronitem,Jacob H. Schiff writes to President Low saying he would consider supporting the expedition,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1900-12-24,,,chronitem,"Schiff pledges $6,000/year for three years and suggests committee members",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-02-16,,,chronitem,AMNH Committee votes to employ Berthold Laufer,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-04,,,chronitem,"Laufer departs from his home in Cologne, travels to London, then Washington DC, where he interviews the Chinese minister",,,,-120.740139,47.751074,Washington
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-06,,,chronitem,Laufer orders “apparatus for recording inscriptions”,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-07-25,,,chronitem,"Laufer departs San Francisco by ship, stops in Honolulu",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-08-20,,,chronitem,Laufer arrives in Shanghai,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-08-30,,,chronitem,"Laufer’s first letter from Shanghai arrives at the Museum. He stays in Shanghai three weeks, makes major purchase of encyclopedic Tu shu shi cheng for $135",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-10-01,,,chronitem,"First shipment of collections arrives in Chicago, en-route to AMNH",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-10,,,chronitem,"Laufer embarks on ambitious five-week tour of Southern Jiangsu and Zhejiang provinces, visiting Shanghai, Suzhou, Hangzhou, Ningbo, Putuoshan, and Haimen. He travels alone and manages all aspects of collecting himself. Travels by junk, horseback, palanquin, and small boat, “totally like a Chinese.”",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-11-08,,,chronitem,"Laufer returns to Shanghai, stays in Mrs. Clark's boarding house, complains of injury to right hand slowing his work, stays three weeks",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901-12,,,chronitem,"Laufer takes boat to Beijing, settles in for major collecting and study, finds local tutor",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1901,,,chronitem,"West and Southwest Halls on the second floor of AMNH “contain at present a portion of the material sent from China by Dr. Laufer.” (5, p. 18)",,,,104.195397,35.86166,China
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1902,,,chronitem,"“Early in the year, Dr. Laufer moved to Peking.” (5)",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1902-06,,,chronitem,"Laufer travels north of Beijing to major sites including Ming Tombs, Great Wall, temple complexes",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1902-08,,,chronitem,Laufer visits Lamaist Temples in Jehol,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1902-12-01,,,chronitem,"Laufer begins travels in western and northwestern regions, with a brief stop in Nanjing, where he sees the Taiping rebellion-ravaged city",,,,12.453389,41.902916,Vatican City
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-03,,,chronitem,Laufer travels to Hankou,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-04,,,chronitem,"Laufer receives a gift of forty-four Chinese bird skins from Albert Frank, a western collector, on behalf of the AMNH (6, p. 53)",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903,,,chronitem,"Laufer travels to Xian, Shaanxi Province",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-08-16,,,chronitem,"Laufer makes inquiry into making ink rubbings of a stone vault tomb complex in Chengdu, this does not come about",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-08,,,chronitem,"Laufer travels to Xianfu, Shensi Province",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-09,,,chronitem,"Laufer packs collections into a seven mule cart caravan, Xianfu overland to Tianjin",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-10,,,chronitem,Laufer finally arrives in Tianjin after travelling overland by donkey for 31 days,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-10,,,chronitem,"Laufer arrives back in Beijing, spends two months collecting, then embarks on a five-week tour of Qingdao and Shandong Province",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903-12-01,,,chronitem,"Laufer “completes Mrs. Robert W. de Forest Collection of Pottery, 541 pieces ($275).” I Hsing Tsien",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903,,,chronitem,"“Chinese collection placed temporarily in the cases in the corner gallery of the west wing…” “Dr. Laufer actively pushing the work in China…very extensive collections, referring specifically to the industrial life of the Chinese, have been received by the Museum…[he] is expected to return to New York during the spring of 1904, and will give his personal attention to the installation of these collections.” (3, p. 21, 23)",,,,-74.217933,43.299428,New York
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1904-02-10,,,chronitem,Laufer arrives back in Shanghai,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1904-02-23,,,chronitem,"Expedition Committee offers Laufer a one-year position of Assistant, Ethnology, at a salary of $1,500/year",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1904-04-15,,,chronitem,"Laufer returns home by way of Shanghai, Suez, Cologne",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1904,,,chronitem,"The last shipment of collections arrives at the Museum, 305 cases",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1904,,,chronitem,"“Fieldwork closed in China, all collections received by the Museum, and installed in the Southwest Gallery” (3, p.19)",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1906,,,chronitem,"Museum President Morris K. Jesup decides that there will be no more collecting in China; AMNH is to be a natural history museum only. (7, p. 34)",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1907,,,chronitem,"Laufer takes position at the Field Museum, Chicago",,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1903,,,cpfrelation,,,"Frank, Albert",,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1946,,,resourcerelation,,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),2003,,,resourcerelation,,,,,,,
+amnhc_2000049,Expedition,Jacob H. Schiff Chinese Expedition (1901-1904),1904-02,,,place,,,,Washington,-120.740139,47.751074,Washington
+amnhc_2000050,Expedition,Whitney Expeditions (1901-1904),1904-02,,,place,,,,Washington,-120.740139,47.751074,Washington
+amnhc_2000051,Expedition,Batty Expeditions to Mexico (1903-1906),1904-02,,,place,,,,Washington,-105.032363,34.97273,New Mexico
+amnhc_2000052,Expedition,Puerto Rico Expedition (1906),1905,,,existdates,,,,"Culebra, Puerto Rico",-66.590149,18.220833,Puerto Rico
+amnhc_2000053,Expedition,Chapman Expeditions,1905,,,existdates,,,,"Culebra, Puerto Rico",-66.590149,18.220833,Puerto Rico
+amnhc_2000054,Expedition,Invertebrate Zoology Expedition (1906-1908),1905,,,existdates,,,,"Culebra, Puerto Rico",-66.590149,18.220833,Puerto Rico
+amnhc_2000055,Expedition,Vertebrate Palaeontology Expeditions,1905,,,existdates,,,,"Culebra, Puerto Rico",-66.590149,18.220833,Puerto Rico
+amnhc_2000056,Expedition,South Pacific Expedition,1905,,,existdates,,,,"Culebra, Puerto Rico",-66.590149,18.220833,Puerto Rico
+amnhc_2000057,Expedition,Ornithology Expedition,1906-04,,,existdates,,,,"Nebraska, Arizona, Southern California, Utah, Wyoming, Rocky Mountains",,,
+amnhc_2000058,Expedition,Florissant Expeditions (1906-1908),1906-04,,,existdates,,,,"Nebraska, Arizona, Southern California, Utah, Wyoming, Rocky Mountains",,,
+amnhc_2000059,Expedition,"Expedition to the Desert of Fayoum, Egypt",1907,,,existdates,,,,"Egypt: Lake Moeris, Fayoum Desert",30.802498,26.820553,Egypt
+amnhc_2000060,Expedition,Vertebrate Palaeontology Expedition,,1907,1908,existdates,,,,"South Dakota, Wyoming, Sioux County (Nebraska)",-99.901813,41.492537,Nebraska
+amnhc_2000061,Expedition,Vertebrate Palaeontology Expedition,,1907,1909,existdates,,,,"Montana: Fort Union, Fort Pierre, Smoke Butte",,,
+amnhc_2000062,Expedition,Chapman-Fuertes trip to Canada,1907,,,existdates,,,,"Saskatchewan, Canadian Rockies",-106.346771,56.130366,Canada
+amnhc_2000063,Expedition,Alaskan Mammoth Expedition (1907-1908),,1907,1908,existdates,,,,Alaska,-154.493062,63.588753,Alaska
+amnhc_2000064,Expedition,Andrews Alaskan Expedition (1908),1908,,,existdates,,,,"Vancouver Island, Alaskan coast, British Columbia",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000065,Expedition,Expedition to Texas,1908,,,existdates,,,,"Permian beds, Texas",-99.901813,31.968599,Texas
+amnhc_2000066,Expedition,Korean Expedition,1908,,,existdates,,,,Korea,127.510093,40.339852,North Korea
+amnhc_2000067,Expedition,Lesser Antilles Expedition,1908,,,existdates,,,,"Martinique, St. Vincent, Grenada, Barbados, Guadeloupe",-69.060087,12.226079,Netherlands Antilles
+amnhc_2000068,Expedition,New Zealand Expedition,1908,,,existdates,,,,New Zealand,174.885971,-40.900557,New Zealand
+amnhc_2000069,Expedition,Philippine Expedition,1908,,,existdates,,,,Philippines,121.774017,12.879721,Philippines
+amnhc_2000070,Expedition,Tahiti Expedition,1908,,,existdates,,,,"Tahiti, Society Islands",,,
+amnhc_2000071,Expedition,Wyoming Expedition,1908,,,existdates,,,,Eastern and Northern Wyoming,-107.290284,43.075968,Wyoming
+amnhc_2000072,Expedition,Expedition to Nicaragua,1908,,,existdates,,,,Eastern and Northern Wyoming,-85.207229,12.865416,Nicaragua
+amnhc_2000073,Expedition,Hudson Bay Expedition,1908,,,existdates,,,,Eastern and Northern Wyoming,-107.290284,43.075968,Wyoming
+amnhc_2000074,Expedition,Stefansson-Anderson Arctic Expedition of the American Museum of Natural History (1908-1912),1908,,,existdates,,,,Eastern and Northern Wyoming,-107.290284,43.075968,Wyoming
+amnhc_2000075,Expedition,Bahamas Expedition,1908,,,existdates,,,,"Andros Island, Little Golding Cay, Nassau",-77.39628,25.03428,Bahamas
+amnhc_2000076,Expedition,Andrews Canadian Field Trip,1909,,,existdates,,,,"Tadousac, Quebec",,,
+amnhc_2000077,Expedition,Ashokan Field Trip,1909,,,existdates,,,,Ashokan Watershed (N. Y.),,,
+amnhc_2000078,Expedition,Long Island Expedition,1909,,,existdates,,,,Long Island,,,
+amnhc_2000079,Expedition,North Carolina Expedition,1909,,,existdates,,,,North Carolina,-79.0193,35.759573,North Carolina
+amnhc_2000080,Expedition,Philippines Expedition (1909),1909,,,existdates,,,,North Carolina,121.774017,12.879721,Philippines
+amnhc_2000081,Expedition,Puget Sound Expedition,1909,,,existdates,,,,Puget Sound,,,
+amnhc_2000082,Expedition,Vertebrate Palaeontology Expedition,1909,,,existdates,,,,"Wyoming: Wind River Basin, Beaver Divide",,,
+amnhc_2000083,Expedition,Fabbri Tekla Expedition to Florida (1909-1910),1909,,,existdates,,,,"Wyoming: Wind River Basin, Beaver Divide",-81.515754,27.664827,Florida
+amnhc_2000084,Expedition,Akeley Expedition to British East Africa (1909-1911),1909,,,existdates,,,,"Wyoming: Wind River Basin, Beaver Divide",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000085,Expedition,Carriker Venezuelan Expedition (1909-1911),1909,,,existdates,,,,"Wyoming: Wind River Basin, Beaver Divide",,,
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1909-09-12,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1909-09-24,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1910-10-23,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1914-04-19,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1914 April 21,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1914-09-10,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1914-09-12,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1914-09-28,,,place,,,,New York,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1907,,,chronitem,"AMNH President Jesup desires to send an expedition to the Congo Free State, plans begin.",,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1907,,,chronitem,King Leopold II receives plans for multi-room Congo Exhibit at Museum and gifts Museum with over 3000 objects.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1908,,,chronitem,the Congo Free State is annexed by the Belgian government and becomes the Belgian Congo.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1908,,,chronitem,Herbert Lang is asked to lead the Expedition; requests James Chapin as his assistant.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1908-04-02,,,chronitem,Formal letters of permission to proceed with Expedition are received from Belgian government,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1909-05-08,,,chronitem,Expedition leaves New York City for Antwerp,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1909-06-22,,,chronitem,"Expedition arrives in Boma, Africa, begins",,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1909-09-30,,,chronitem,"Established initial base at Avakubi, beginning the process of training assistants and collecting",,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1913-02-19,,,chronitem,Left Faradje to begin large scale transport back to Stanleyville. On the trek back the team continued to add specimens to the collection.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1913-09-09,,,chronitem,Left the Ituri district.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1914-12-10,,,chronitem,Chapin leaves Stanleyville with first group of collection.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1915-03-31,,,chronitem,Chapin arrives in New York with first group of collection.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1915-08,,,chronitem,remaining group of the collection is sent to New York by Lang,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1915-11-12,,,chronitem,Lang returns to New York,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000086,Expedition,American Museum Congo Expedition (1909-1915),1988,,,resourcerelation,,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000087,Expedition,Petrunkevitch Expedition (1909),1909,,,existdates,,,,"Mexico, Texas",-99.901813,31.968599,Texas
+amnhc_2000088,Expedition,Woods Hole Expedition,1909,,,existdates,,,,"Mexico, Texas",-99.901813,31.968599,Texas
+amnhc_2000089,Expedition,Expedition to Vineyard Haven,1910,,,existdates,,,,"Nahant (Mass.), South Harpswell (Maine)",-69.445469,45.253783,Maine
+amnhc_2000090,Expedition,Japanese Whaling Expedition (1910),1910,,,existdates,,,,Japanese Coast,,,
+amnhc_2000091,Expedition,Vertebrate Palaeontology Expedition,1910,,,existdates,,,,"Cretaceous Dinosaur Beds, (Mont.), Alberta",,,
+amnhc_2000092,Expedition,Richardson Colombian Expedition (1910-1911),1910,,,existdates,,,,"Cretaceous Dinosaur Beds, (Mont.), Alberta",,,
+amnhc_2000093,Expedition,Chapman Mexican Expedition,1910,,,existdates,,,,"Orizaba, Mount (Mexico)",-102.552784,23.634501,Mexico
+amnhc_2000094,Expedition,Cleveland H. Dodge Fund Expeditions,1910,,,existdates,,,,"Moon Lake, Mississippi",-89.398528,32.354668,Mississippi
+amnhc_2000095,Expedition,Canadian Indian Study Expedition,1911,,,existdates,,,,"Alaskan Coast, Saskatchewan, Alberta, Canada",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000096,Expedition,Chapman Colombian Expedition of the American Museum of Natural History (1911-1912),1911,,,existdates,,,,Western Colombia (Cauca Valley),-74.297333,4.570868,Colombia
+amnhc_2000097,Expedition,Ohio Expedition,1911,,,existdates,,,,"Cleveland, Lorain, Delaware, and Sandusky, Ohio and Kentucky",-82.907123,40.417287,Ohio
+amnhc_2000098,Expedition,"Vertebrate Palaeontology Expeditions to U.S., Mexico, Canada and Cuba",1911,,,existdates,,,,"Cleveland, Lorain, Delaware, and Sandusky, Ohio and Kentucky",-106.346771,56.130366,Canada
+amnhc_2000099,Expedition,West Indies Expedition of the American Museum of Natural History (1911),1911,,,existdates,,,,"Domenica, Lesser Antilles, British Guiana, Northern Brazil",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000101,Expedition,Anthony Oregon Expedition (1912),1912,,,existdates,,,,Eastern Oregon,-120.554201,43.804133,Oregon
+amnhc_2000102,Expedition,Beutenmüller Expeditions to the Black Mountains (1895-1912),1912,,,existdates,,,,Eastern Oregon,-120.554201,43.804133,Oregon
+amnhc_2000103,Expedition,Columbian Expedition,1912,,,existdates,,,,"Ecuador, Colombia (Central Andes, Bogota, Amazon)",-74.297333,4.570868,Colombia
+amnhc_2000104,Expedition,Entomological Expedition (1911),1912,,,existdates,,,,"Ecuador, Colombia (Central Andes, Bogota, Amazon)",-74.297333,4.570868,Colombia
+amnhc_2000105,Expedition,African Expedition of the American Museum of Natural History (3rd : 1912-1913),1912,,,existdates,,,,British East Africa (Cheringani Range),71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000106,Expedition,Vertebrate Palaeontology Expedition,1912,,,existdates,,,,"Cretaceous beds of Red Deer River, Alberta, Canada, New Mexico, Wyoming, Nebraska",-99.901813,41.492537,Nebraska
+amnhc_2000107,Expedition,South Georgia Island Expedition of the American Museum of Natural History (1912-1913),1912,,,existdates,,,,"Cretaceous beds of Red Deer River, Alberta, Canada, New Mexico, Wyoming, Nebraska",-36.587909,-54.429579,South Georgia and the South Sandwich Islands
+amnhc_2000108,Expedition,Brewster-Sanford Expedition of the American Museum of Natural History (1912-1917),1917,,,cpfrelation,,,"""S.S. Guayana""",,,,
+amnhc_2000108,Expedition,Brewster-Sanford Expedition of the American Museum of Natural History (1912-1917),1915,,,cpfrelation,,,Captain Grande,,,,
+amnhc_2000108,Expedition,Brewster-Sanford Expedition of the American Museum of Natural History (1912-1917),1914,,,cpfrelation,,,"""Leguri""",,,,
+amnhc_2000108,Expedition,Brewster-Sanford Expedition of the American Museum of Natural History (1912-1917),1916,,,cpfrelation,,,"""S.S. Oronsa""",,,,
+amnhc_2000109,Expedition,Atlantic Shore Life Expeditions (1913),1913,,,existdates,,,,Nahaut (Mass.),,,
+amnhc_2000110,Expedition,Borden Expedition,1913,,,existdates,,,,Alaskan Coast,,,
+amnhc_2000111,Expedition,Brewster-Sanford Expedition of the American Museum of Natural History (1912-1917),1913,,,existdates,,,,"Lima, Peru",-75.015152,-9.189967,Peru
+amnhc_2000112,Expedition,Hovey Expedition to Central America,1913,,,existdates,,,,"Lima, Peru",-75.015152,-9.189967,Peru
+amnhc_2000113,Expedition,Paleolithic Study Trip to Europe,1913,,,existdates,,,,"Europe, including Puente Viesgo, Spain",-3.74922,40.463667,Spain
+amnhc_2000114,Expedition,South American Ornithology Expedition (1912-1913),1913,,,existdates,,,,"Bogota (Colombia), Northeastern Venezuela",-66.58973,6.42375,Venezuela
+amnhc_2000115,Expedition,Vertebrate Palaeontology Expeditions,1913,,,existdates,,,,"Alberta, Canada",-106.346771,56.130366,Canada
+amnhc_2000116,Expedition,Barnes-Kearton Expedition to Central Africa,1913,,,existdates,,,,"Alberta, Canada",22.937506,-30.559482,South Africa
+amnhc_2000117,Expedition,Crocker Land Expedition (1913-1917),1913,,,existdates,,,,"Alberta, Canada",-106.346771,56.130366,Canada
+amnhc_2000118,Expedition,Roosevelt South American Expeditions (1913-1917),1913,,,existdates,,,,"Alberta, Canada",-106.346771,56.130366,Canada
+amnhc_2000119,Expedition,Expedition to Eastern Panama,1913,,,existdates,,,,"Alberta, Canada",-80.782127,8.537981,Panama
+amnhc_2000120,Expedition,Shiras Expedition to Panama (1914),1914,,,existdates,,,,"Gatun Lake Region, Panama",-80.782127,8.537981,Panama
+amnhc_2000121,Expedition,Biological Expedition to Puerto Rico (1914),1914,,,existdates,,,,"Puerto Rico, Florida",-66.590149,18.220833,Puerto Rico
+amnhc_2000122,Expedition,Miller Colombian Expedition,1914,,,existdates,,,,"Puerto Rico, Florida",-66.590149,18.220833,Puerto Rico
+amnhc_2000123,Expedition,Vertebrate Palaeontology Expedition,1914,,,existdates,,,,"Puerto Rico, Florida",-66.590149,18.220833,Puerto Rico
+amnhc_2000124,Expedition,Devilfish Expedition (1914),1914,,,existdates,,,,West Coast of Florida,-81.515754,27.664827,Florida
+amnhc_2000125,Expedition,Collins-Day Expedition to South America (1915),1914,,,existdates,,,,West Coast of Florida,-81.515754,27.664827,Florida
+amnhc_2000126,Expedition,Expeditions to Eastern Panama (1914-1915),1915,,,existdates,,,,Tacarcuna region (Panama),-80.782127,8.537981,Panama
+amnhc_2000127,Expedition,Santo Domingo Expedition (1915),1915,,,existdates,,,,"Sanchez, Santo Domingo",,,
+amnhc_2000128,Expedition,Crampton Antilles Expeditions,1915,,,existdates,,,,"Sanchez, Santo Domingo",-69.060087,12.226079,Netherlands Antilles
+amnhc_2000129,Expedition,Hovey West Indies Expedition,1915,,,existdates,,,,"Sanchez, Santo Domingo",,,
+amnhc_2000130,Expedition,Chapman Colombian Expedition,1916,,,existdates,,,,"Colombia, Bolivia, Peru, Argentina, Brazil",-51.92528,-14.235004,Brazil
+amnhc_2000132,Expedition,Nicaraguan Expedition (1st : 1916),1916,,,existdates,,,,"Colombia, Bolivia, Peru, Argentina, Brazil",-51.92528,-14.235004,Brazil
+amnhc_2000133,Expedition,North Carolina Expedition (1916),1916,,,existdates,,,,Mountains of North Carolina,-79.0193,35.759573,North Carolina
+amnhc_2000134,Expedition,Vertebrate Palaeontology Expeditions,1916,,,existdates,,,,Northwest Montana,-110.362566,46.879682,Montana
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1916,,,place,,,,San Francisco (Calif.),,,
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1916-03-28,,,chronitem,Left San Francisco,,,,,,
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1916-07,,,chronitem,Heller joined group,,,,,,
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1916-08-06,,,chronitem,began travel to Ta-Li Fu in Yunnan Province,,,,,,
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1916-11,,,chronitem,reached Yangtze River,,,,,,
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1917-01-13,,,chronitem,Mekong to Nam-Ting Valley,,,,,,
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1917-06-09,,,chronitem,Left for Rangoon,,,,,,
+amnhc_2000135,Expedition,Asiatic Zoölogical Expedition (1st : 1916-1917),1917-10-01,,,chronitem,Returned to New York,,,,-74.217933,43.299428,New York
+amnhc_2000136,Expedition,Nelson Kentucky Expedition,1917-10-01,,,chronitem,Returned to New York,,,,-84.270018,37.839333,Kentucky
+amnhc_2000137,Expedition,Primitive Peoples,1918,,,existdates,,,,"Aztec, New Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000138,Expedition,Eastman Expedition to South America,1917-06,,,existdates,,,,"Brazil, Paraguay, Uruguay, Argentina",-63.616672,-38.416097,Argentina
+amnhc_2000139,Expedition,Nicaraguan Expedition,1917,,,existdates,,,,"No. highlands, tropical forest, Mombacho, El Viejo volcanoes",,,
+amnhc_2000140,Expedition,Puerto Rican Expedition,1917,,,existdates,,,,"No. highlands, tropical forest, Mombacho, El Viejo volcanoes",-66.590149,18.220833,Puerto Rico
+amnhc_2000141,Expedition,Rainey Asiatic Expedition 1918-1919,1917,,,existdates,,,,"No. highlands, tropical forest, Mombacho, El Viejo volcanoes",,,
+amnhc_2000142,Expedition,Vertebrate Palaeontology Expedition,1918,,,existdates,,,,"Huerfano Basin, Colorado",-105.782067,39.550051,Colorado
+amnhc_2000143,Expedition,Vertebrate Palaeontology Expedition,1918,,,existdates,,,,"Snake Creek, Western Nebraska",-99.901813,41.492537,Nebraska
+amnhc_2000144,Expedition,Spinden Central American Expedition,1918,,,existdates,,,,"Snake Creek, Western Nebraska",-99.901813,41.492537,Nebraska
+amnhc_2000145,Expedition,Aztec Excavation,1922,,,existdates,,,,"Aztec, New Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000145,Expedition,Aztec Excavation,,1920,1922,existdates,,,,"Aztec, New Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000146,Expedition,Arizona Expedition,1919,,,existdates,,,,Southeastern Arizona (Huachuca Mountains),-111.093731,34.048928,Arizona
+amnhc_2000147,Expedition,Brown Cuban Expedition (1918-1919),1919,,,existdates,,,,Southeastern Arizona (Huachuca Mountains),-111.093731,34.048928,Arizona
+amnhc_2000148,Expedition,Cherrie Venezuelan Expedition,1919,,,existdates,,,,Venezuela,-66.58973,6.42375,Venezuela
+amnhc_2000149,Expedition,Crampton Polynesia Expedition,1919,,,existdates,,,,"Moorea, Society Islands",-149.406843,-17.679742,French Polynesia
+amnhc_2000150,Expedition,Havasupai Indian Expedition,1919,,,existdates,,,,Arizona,71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000151,Expedition,Southwest Indian,1919,,,existdates,,,,"Arizona (Apache, Zuni), Rio Verde Valley, Havasupai tribe",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000152,Expedition,Spinden Central American Expedition,1919,,,existdates,,,,"Nicaragua, Colombia",-74.297333,4.570868,Colombia
+amnhc_2000153,Expedition,Vertebrate Palaeontology,1919,,,existdates,,,,"Agate, Nebraska",-99.901813,41.492537,Nebraska
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1918-06-28,,,chronitem,Roy Chapman Andrews sailed to China,,,,104.195397,35.86166,China
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1918-09,,,chronitem,Yvette and George arrived,,,,,,
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1919-02,,,chronitem,Most of equipment in Urga,,,,,,
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1919-05-17,,,chronitem,left Kalgan for Urga with group and more equipment,,,,,,
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1919-06-16,,,chronitem,returned from southwest excursion,,,,,,
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1919-10-01,,,chronitem,"specimen caravan set off, followed by them",,,,,,
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1919-11,,,chronitem,returned to Peking from hunting excursion with Caldwell,,,,,,
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1920-02,,,chronitem,returned to New York,,,,-74.217933,43.299428,New York
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1919,,,cpfrelation,,,"Caldwell, Harry R.",,,,
+amnhc_2000154,Expedition,Asiatic Expedition (2nd : 1918-1919),1919,,,cpfrelation,,,"Smith, Everett",,,,
+amnhc_2000155,Expedition,Anthony Jamaica Expedition (1919-1920),1919,,,cpfrelation,,,"Smith, Everett",,-77.297508,18.109581,Jamaica
+amnhc_2000156,Expedition,Ruthling Mexican Expedition,1919,,,cpfrelation,,,"Smith, Everett",,,,
+amnhc_2000157,Expedition,Watson Jamaican Expedition,1919,,,cpfrelation,,,"Smith, Everett",,,,
+amnhc_2000158,Expedition,Colorado Entomological Expedition,1919,,,cpfrelation,,,"Smith, Everett",,-105.782067,39.550051,Colorado
+amnhc_2000159,Expedition,Cartier Expedition 1920,1920,,,existdates,,,,Chaco Canyon,,,
+amnhc_2000159,Expedition,Cartier Expedition 1920,1893,,,place,,,,Chaco Canyon,,,
+amnhc_2000159,Expedition,Cartier Expedition 1920,1902,,,place,,,,Chaco Canyon,,,
+amnhc_2000159,Expedition,Cartier Expedition 1920,1920,,,cpfrelation,,,Nels Nelson,,,,
+amnhc_2000159,Expedition,Cartier Expedition 1920,1920,,,cpfrelation,,,John Wetherill,,,,
+amnhc_2000160,Expedition,Archer M. Huntington Survey,1920,,,existdates,,,,Navajo Reservation,,,
+amnhc_2000161,Expedition,William Percy Expedtion,1920,,,existdates,,,,"Guaqui, Bolivia",-63.588653,-16.290154,Bolivia
+amnhc_2000162,Expedition,Crampton South Seas Expedition,1920,,,existdates,,,,"Guaqui, Bolivia",-63.588653,-16.290154,Bolivia
+amnhc_2000163,Expedition,Sullivan Hawaiian Expedition,1920,,,existdates,,,,"Guaqui, Bolivia",-63.588653,-16.290154,Bolivia
+amnhc_2000164,Expedition,Whitney South Sea Expedition of the American Museum of Natural History (1920-1941),1941,,,chronitem,Leader: G. Reid Henry,,,,,,
+amnhc_2000164,Expedition,Whitney South Sea Expedition of the American Museum of Natural History (1920-1941),1922,,,cpfrelation,,,"Curtis, Charles Cutler",,,,
+amnhc_2000164,Expedition,Whitney South Sea Expedition of the American Museum of Natural History (1920-1941),1941,,,cpfrelation,,,"Henry, G. Reid",,,,
+amnhc_2000164,Expedition,Whitney South Sea Expedition of the American Museum of Natural History (1920-1941),1924,,,cpfrelation,,,"Bryan, E. H. (Edwin Horace), 1898-1985",,,,
+amnhc_2000165,Expedition,Anthony-Tate Expeditions to Ecuador (1920-1924),1924,,,existdates,,,,Ecuador (Portovelo),-78.183406,-1.831239,Ecuador
+amnhc_2000165,Expedition,Anthony-Tate Expeditions to Ecuador (1920-1924),,1920-06,1924,existdates,,,,Ecuador (Portovelo),-78.183406,-1.831239,Ecuador
+amnhc_2000166,Expedition,Arikara Expedition,1921,,,existdates,,,,North Dakota,-101.002012,47.551493,North Dakota
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1922,,,chronitem,season one,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1923,,,chronitem,season two,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1924,,,chronitem,"no season planned, returned to United States to work on collection, plan continued work and raise funds.",,,,-95.712891,37.09024,United States
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,chronitem,season three,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1926,,,chronitem,season cancelled due to Chinese Civil War,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1927,,,chronitem,season cancelled due to Chinese Civil War,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1928,,,chronitem,season four,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1929,,,chronitem,season cancelled due to the inability to agree to conditions for the Expedition with the Chinese Commission for the Preservation of Ancient Objects,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1930,,,chronitem,season five,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1918,,,cpfrelation,,,Rainey Asiatic Expedition,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1922,,,cpfrelation,,,"Badmajapoff, T.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,cpfrelation,,,"Butler, Frederick B.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,cpfrelation,,,"Chaney, Ralph Works, 1890-1971.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1922,,,cpfrelation,,,"Colgate, S. Bayard (Samuel Bayard), 1898-",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1930,,,cpfrelation,,,"Garber, A. Z.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1928,,,cpfrelation,,,"Hill, Maj. Gen. William P.T. (1895-1965)+D28",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1928,,,cpfrelation,,,"Horváth, G.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1923,,,cpfrelation,,,"Johnson, Albert F.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1923,,,cpfrelation,,,"Johnson, C. Vance",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1923,,,cpfrelation,,,"Kaisen, Peter C.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,cpfrelation,,,"Loucks, H. A.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,cpfrelation,,,"Lovell, Norman.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,cpfrelation,,,"Nelson, Nels C. (Nels Christian), (1875-1964).",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1928,,,cpfrelation,,,"Pérez, José A. (José Antonio)",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1928,,,cpfrelation,,,"Pond, Alonzo William, 1894-1986.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,cpfrelation,,,"Roberts, Leo Bond",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,cpfrelation,,,"Robinson, H. O.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1928,,,cpfrelation,,,"Spock, Leslie Erskine, 1900-",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1930,,,cpfrelation,,,"de Chardin, Rev. Pierre Teilhard (1881-1955)",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1930,,,cpfrelation,,,"Wyman, Walker Demarquis, 1907-",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1925,,,resourcerelation,,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),1928,,,resourcerelation,,,,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),,1922,1925,cpfrelation,,,"Morris, Frederick K. (Frederick Kuhne), (1886-1962)",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),,1922,1928,cpfrelation,,,"Shackelford, James B.",,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),,1928,1930,cpfrelation,,,Tserin,,,,
+amnhc_2000167,Expedition,Central Asiatic Expeditions (1921-1930),,1925,1928,resourcerelation,,,,,,,
+amnhc_2000168,Expedition,Australian Expedition (1st : 1921-1922),1928,,,resourcerelation,,,,,,,
+amnhc_2000169,Expedition,Akeley African Expedition to the Belgian Congo of the American Museum of Natural History (1921-1922),1928,,,resourcerelation,,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000170,Expedition,Watson Haiti Expedition,1928,,,resourcerelation,,,,,-72.285215,18.971187,Haiti
+amnhc_2000171,Expedition,Brown India Expedition (1921-1925),1928,,,resourcerelation,,,,,78.96288,20.593684,India
+amnhc_2000173,Expedition,Azores Expedition (1922),1922,,,existdates,,,,"Azores, Cape Verde Islands",-24.013197,16.002082,Cape Verde
+amnhc_2000174,Expedition,Holt Brazil Expedition (1921-1922),1922,,,existdates,,,,Eastern Brazil (Mt. Itatiaya),-51.92528,-14.235004,Brazil
+amnhc_2000175,Expedition,Ecuador Expedition (1922),1922,,,existdates,,,,Eastern Brazil (Mt. Itatiaya),-78.183406,-1.831239,Ecuador
+amnhc_2000176,Expedition,New York State Archaeological Trip,1922,,,existdates,,,,Hudson River,-74.217933,43.299428,New York
+amnhc_2000177,Expedition,Heilprin Expedition to Santo Domingo of the American Museum of Natural History (1st : 1922),1922,,,existdates,,,,Hudson River,,,
+amnhc_2000178,Expedition,Southwest Indian Expedition,1922,,,existdates,,,,"Southern Utah, Navajo mountain region of New Mexico",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000179,Expedition,Tate Ecuador Expedition,1922,,,existdates,,,,Ecuador,-78.183406,-1.831239,Ecuador
+amnhc_2000180,Expedition,Vertebrate Palaeontology (Nebraska Field Expedition),1925,,,existdates,,,,"Snake Creek and Agate fossil quarries, Western Nebraska",-99.901813,41.492537,Nebraska
+amnhc_2000181,Expedition,Peru Expeditions (1922-1926),1925,,,existdates,,,,"Snake Creek and Agate fossil quarries, Western Nebraska",-75.015152,-9.189967,Peru
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1927,,,place,,,,India,78.96288,20.593684,India
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1919,,,chronitem,Faunthorpe visits the American Museum of Natural History (AMNH) and develops the idea of an Expedition to create a collection of Asian Mammals. He approaches President Osborne with the concept. Vernay becomes involved and agrees to help finance the trip.,,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1922,,,chronitem,"The Expedition is planned to begin at the end of 1922, with funding from Vernay and Faunthorpe, as well as monies from the Jesup fund. The museum will send John Jonas as taxidermist and George M. Dyott as photographer and cinematographer.",,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1922-12,,,chronitem,"John Jonas travels to Lucknow to meet Faunthorpe, hunting in Kheri region.",,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923-01,,,chronitem,"Vernay travels from London to Lucknow to meet Expedition, they travel to northern Nepal.",,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923-02,,,chronitem,"Group travels to the Bhopal state, then tiger hunt in east Nepal.",,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923-03,,,chronitem,"Bagaha and the Gandak Valley, then the Billigirirangan Hills.",,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923-04,,,chronitem,"Faunthorpe travels north to Oudh, where Vernay joins on April 19 after continuing to hunt bison.",,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923-06,,,chronitem,First season of collecting ends.,,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1926,,,chronitem,"Faunthorpe reveals specimens of wild boar secured and plans to acquire leopard, wild dog and antelope in 1926 and early 1927.",,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1927-11,,,chronitem,"Vernay sailed to Bombay to meet Faunthorpe, traveled to Burma to try to secure the Rhinoceros sondaicus. Butler and Rosenkranz joined expedition to collect background material and accessories for the exhibit dioramas.",,,,95.956223,21.913965,Myanmar [Burma]
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1928-04-23,,,chronitem,Display of a series of groups which will be the basis of the Hall.,,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1920-11,,,chronitem,The South Asiatic Hall opens at the American Museum of Natural History.,,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,cpfrelation,,,Maharaja Sir Chandra Shamshere Jung,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,cpfrelation,,,Turner,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,cpfrelation,,,Kunwar Dillipat Shah of Khairigarh,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,cpfrelation,,,"O’Connor, Colonel",,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,cpfrelation,,,"Fremlin, Captain",,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,cpfrelation,,,"Morris, Ralph",,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,cpfrelation,,,Van Ingen,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1924,,,cpfrelation,,,"Percy-Smith, Col. E.",,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1924,,,cpfrelation,,,"Stockley, Major C. H.",,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1927,,,cpfrelation,,,"Smith, H. C.",,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1929,,,cpfrelation,,,His Highness Sir Mahabat Khan Nawab,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1930,,,cpfrelation,,,American Museum Of Natural History Hall Of South Asiatic Mammals,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1923,,,resourcerelation,,,,,,,
+amnhc_2000182,Expedition,Faunthorpe-Vernay Expedition of the American Museum of Natural History (1922-1923),1924,,,resourcerelation,,,,,,,
+amnhc_2000183,Expedition,British Guiana Expedition (1922-1923),1924,,,resourcerelation,,,,,-53.125782,3.933889,French Guiana
+amnhc_2000184,Expedition,Expedition to Mount Desert Island,1923,,,existdates,,,,"Mt. Desert Island, Maine (Harpswell Laboratory)",-69.445469,45.253783,Maine
+amnhc_2000185,Expedition,"Expedition to Navajo Reservation, New Mexico",1923,,,existdates,,,,"Shiprock, New Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000186,Expedition,Frick Expedition to Mexico,1923,,,existdates,,,,Valley of Mexico,-105.032363,34.97273,New Mexico
+amnhc_2000187,Expedition,Gila Monster Expedition,1923,,,existdates,,,,"Catalina Mountains, Arizona",-111.093731,34.048928,Arizona
+amnhc_2000188,Expedition,Bahamian Coral Reef Expedition,1923,,,existdates,,,,"Nassau, Andros Islands",,,
+amnhc_2000189,Expedition,The Ogden Mills Archaeological Expedition,1923,,,existdates,,,,"Canyon del Muerto, Arizona (Mummy Cave)",-111.093731,34.048928,Arizona
+amnhc_2000190,Expedition,Goodwin Expedition to the Gaspé Peninsula (1923),1923,,,existdates,,,,"Gaspe Peninsula, Canada (Quebec)",-106.346771,56.130366,Canada
+amnhc_2000191,Expedition,Chapman South American Expedition,1924,,,existdates,,,,"Argentina, Southern Chile",-71.542969,-35.675147,Chile
+amnhc_2000192,Expedition,Marsh-Darien Expedition (1924),1924,,,existdates,,,,Isthmus of Panama,-80.782127,8.537981,Panama
+amnhc_2000193,Expedition,Martin Johnson African Expedition (1924-1928),1924,,,existdates,,,,Isthmus of Panama,-80.782127,8.537981,Panama
+amnhc_2000194,Expedition,Griscom-Benson Expedition to Panama (1924-1926),1924,,,existdates,,,,"Veragua, Panama",-80.782127,8.537981,Panama
+amnhc_2000195,Expedition,Clark Expedition to British Columbia,1925-08,,,existdates,,,,Cassier Mtns. Of Northern British Columbia,71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000196,Expedition,Goodwin Expedition to British Isles,1925,,,existdates,,,,"England, Ireland",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000197,Expedition,Ecuador and Northern Peru Expedition,1925,,,cpfrelation,,,"Skorlich, M.P.",,-78.183406,-1.831239,Ecuador
+amnhc_2000197,Expedition,Ecuador and Northern Peru Expedition,1925,,,cpfrelation,,,"""Cyprus""",,-78.183406,-1.831239,Ecuador
+amnhc_2000197,Expedition,Ecuador and Northern Peru Expedition,1925,,,cpfrelation,,,"""Mamtalite""",,-78.183406,-1.831239,Ecuador
+amnhc_2000197,Expedition,Ecuador and Northern Peru Expedition,1925,,,cpfrelation,,,"Norton, E. Hope",,-78.183406,-1.831239,Ecuador
+amnhc_2000197,Expedition,Ecuador and Northern Peru Expedition,1925,,,cpfrelation,,,"""Silver Spary""",,-78.183406,-1.831239,Ecuador
+amnhc_2000198,Expedition,Southwest Indian Expedition,1925,,,existdates,,,,"Southwest North America, Navajo, Zuni, Cochiti, and Hopi tribes",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000199,Expedition,Tate Turumiquire Expedition,1925,,,existdates,,,,"Southwest North America, Navajo, Zuni, Cochiti, and Hopi tribes",,,
+amnhc_2000200,Expedition,Vernay Angola Expedition (1925),1925,,,existdates,,,,Angola (Portuguese West Africa),17.873887,-11.202692,Angola
+amnhc_2000201,Expedition,Virgin Islands Expedition,1925,,,existdates,,,,British and American Virgin Islands,-64.639968,18.420695,British Virgin Islands
+amnhc_2000202,Expedition,Yucatan Expedition,1925,,,existdates,,,,"Chichen Itza, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000203,Expedition,Olalla Ecuador Expeditions,1925,,,existdates,,,,"Chichen Itza, Mexico",-78.183406,-1.831239,Ecuador
+amnhc_2000204,Expedition,Schmidt-Thompson Archaeological Expedition,1925,,,existdates,,,,"Chichen Itza, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000205,Expedition,Chapman Barro Colorado Expedition (1928),1925,,,existdates,,,,"Chichen Itza, Mexico",-105.782067,39.550051,Colorado
+amnhc_2000206,Expedition,Burden East Indian Expedition of the American Museum of Natural History (1926),1926,,,existdates,,,,"Island of Komodo, Dutch East Indies",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000207,Expedition,Childs Frick Expedition to the Southwest and Mexico (1926),1926,,,existdates,,,,"Island of Komodo, Dutch East Indies",-105.032363,34.97273,New Mexico
+amnhc_2000208,Expedition,Ladew Peruvian Expedition,1926,,,existdates,,,,"Peru, Argentina, Bolivia",-63.588653,-16.290154,Bolivia
+amnhc_2000209,Expedition,Mason-Spinden Expedition (1926),1926,,,existdates,,,,"Yucatan, Cozumel, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000210,Expedition,Matthew Expedition to India,1926,,,existdates,,,,"India, Java",78.96288,20.593684,India
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1926,,,place,,,,Pamir,,,
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1926-01,,,chronitem,"The expedition crew set out on their journey with their guides from Srinagar, Kashimar in January of 1926.",,,,,,
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1926,,,chronitem,27 specimen of Ovis poli sheep were collected here.,,,,,,
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1926,,,chronitem,Specimen of Ibex and Roe Deer were collected here.,,,,,,
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1926,,,chronitem,The expedition spent time here re-outfitting in the capital of Chinese Turkestan before heading to mongolia.,,,,,,
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1926-11-01,,,chronitem,The expedition entered Mongolia and members were captured by Mongolian soldiers.,,,,103.846656,46.862496,Mongolia
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1927-01-01,,,chronitem,"After leaving Mongolia, the team took the trans-Siberian Railroad to Peking (now Beijing) where the expedition ended.",,,,,,
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1927,,,resourcerelation,,,,,,,
+amnhc_2000211,Expedition,Morden-Clark Asiatic Expedition of the American Museum of Natural History (1926),1926,,,resourcerelation,,,,,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,existdates,,,,Mediterranean Sea Islands,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,usedates,,Metcalf Mediterranean Expedition,,,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,cpfrelation,,,American Museum of Natural History,,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,cpfrelation,,,"Gordon, Ogilvie",,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,cpfrelation,,,"Metcalf, Jesse",,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,cpfrelation,,,"Murphy, Robert C.",,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,cpfrelation,,,AMNH Department of Ornithology,,,,
+amnhc_2000212,Expedition,Metcalf Mediterranean Expedition,1926,,,cpfrelation,,,"""Wawaloam""",,,,
+amnhc_2000213,Expedition,Pearl Islands Expedition (1926),1926,,,existdates,,,,"Isthmus of Panama, Pearl Islands near Nicaragua- belong to Panama). Mostly on the Pacific side, but also in the Bay of Panama, Barro Colorado and Gatun Lake",-105.782067,39.550051,Colorado
+amnhc_2000214,Expedition,Phipps Bahamian Expedition,1926,,,existdates,,,,Bahamas,-77.39628,25.03428,Bahamas
+amnhc_2000215,Expedition,Puerto Rican Expedition,1926,,,existdates,,,,Bahamas,-66.590149,18.220833,Puerto Rico
+amnhc_2000216,Expedition,Putnam Greenland Expedition,1926,,,existdates,,,,Bahamas,-42.604303,71.706936,Greenland
+amnhc_2000217,Expedition,Rockefeller Hudson Bay Expedition,1926,,,existdates,,,,Bahamas,-77.39628,25.03428,Bahamas
+amnhc_2000218,Expedition,Spalding Expedition,1926,,,existdates,,,,Gulf of California,-119.417932,36.778261,California
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1925,,,chronitem,Eastman contacts Akeley wanting to go on a hunting trip. Akeley agrees as long as Eastman helps finance the African Hall. Eastman agrees and the plan is set for the following May (1).,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-03,,,chronitem,approximately 1926 March. Expedition begins with Akeley and Mary leaving New York.,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-03-10,,,chronitem,Eastman and Stewart leave for New York to meet up with Pomeroy. They set sail a few days later.,,,,-74.217933,43.299428,New York
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-04-28,,,chronitem,"Akeley and his wife are met by Eastman, Stewart and Pomeroy on the Uganda railway in Mombosa.",,,,32.290275,1.373333,Uganda
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-06-07,,,chronitem,Eastman and Stewart leave Nairobi and head to Guasho Nyro (Kenya).,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-09-01,,,chronitem,Press bulletin of the expedition sent out by the American Museum of Natural History,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-09,,,chronitem,"approximately 1926 September. Akeley is ill, leaves for Nairobi for treatment",,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-09-26,,,chronitem,Eastman and Stewart leave the expedition to return to New York,,,,-74.217933,43.299428,New York
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-10,,,chronitem,"Sherwood of AMNH writes to President Osborn of the museum, indicating Akeley's recent cable that he is continuing with expedition and not returning home after illness",,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-10-07,,,chronitem,Sherwood receives memorandum relaying the groups collected by Akeley and those which are still underway,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-10-08,,,chronitem,Pomeroy leaves with Rockwell for Koodoo hunt.,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-10-14,,,chronitem,Expedition starts off for the Kivu Volcanos of Parc National Albert,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-11-14,,,chronitem,"Akeley dies from illness after being sick for days with a fever whilst at the Rwevu camp site in the Kivu district. He is buried in the Belgian Congo, on the slopes of Mount Mikerno, near the main location of his Gorilla Expedition in 1921-1922",,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-11-30,,,chronitem,"Pomeroy finishes koodoo hunt in Eastern Tanganyika, near Dodomo. He completed seven groups, securing lesser and greater koodoo.",,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926-12-20,,,chronitem,"Cable from Mary Akeley indicates collecting in Kivu is now complete and would be traveling to Kabale, Uganda and then to Kenya to finish collecting items there for the African Hall.",,,,32.290275,1.373333,Uganda
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1927-01-12,,,chronitem,Mary Akeley arrives at Edama Ravine on the 12th and then proceeds with expedition to Lake Hannington (now Lake Bogoria) to study and collect accessories for greater koodoo group which would then complete the field work for the six habitat groups her husband invisioned,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1927-04,,,chronitem,approximately 1927 April. King Albert bestows royal decoration honor to Akeley for his work in Congo as well as Mary's completion of his expedition.,,,,21.758664,-4.038333,Congo [DRC]
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Akeley, Carl Ethan, 1864- 1926",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Eastman, George, 1854-1932",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Pomeroy, Daniel E.",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Wentz, Daniel B. (Daniel Bertsch), 1872-1926",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Stewart, Audley",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Johnson, Martin, 1884-1937",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Johnson, Osa, 1894-1953",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Leigh, William R.",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Jansson, Arthur August, 1890-1960",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Rockwell, R. H.",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Raddatz, R. C.",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,"Percival, Philip H. (Philip Hope), 1884-",,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,Mguru,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,Billy Billy,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,cpfrelation,,,Molimo,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1927,,,resourcerelation,,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1926,,,resourcerelation,,,,,,,
+amnhc_2000219,Expedition,Akeley-Eastman-Pomeroy African Hall Expedition of the American Museum of Natural History (1926),1928,,,resourcerelation,,,,,,,
+amnhc_2000221,Expedition,Taylor Sudan Expedition (1926-1927),1928,,,resourcerelation,,,,,30.217636,12.862807,Sudan
+amnhc_2000222,Expedition,Naumburg-Kaempfer Expedition,1926,,,existdates,,,,"Eastern and Northwestern Brazil (Piaui, Maranhao)",-51.92528,-14.235004,Brazil
+amnhc_2000223,Expedition,Ruwenzori-Kivu Expedition of the American Museum of Natural History (1926-1927),1926,,,existdates,,,,"Eastern and Northwestern Brazil (Piaui, Maranhao)",-51.92528,-14.235004,Brazil
+amnhc_2000224,Expedition,Faunthorpe Indian Expedition,1926,,,existdates,,,,"Eastern and Northwestern Brazil (Piaui, Maranhao)",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000225,Expedition,Expedition to Arizona/New Mexico,1927,,,existdates,,,,"Mitten Rock and Tocito, in the Navajo country east of the Arizona line in New Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000226,Expedition,Expedition to Mexico,1927,,,existdates,,,,Mexico,-105.032363,34.97273,New Mexico
+amnhc_2000227,Expedition,Expedition to North Carolina,1927,,,existdates,,,,Mountains of Western North Carolina and Eastern Kentucky,-79.0193,35.759573,North Carolina
+amnhc_2000228,Expedition,Expedition to Norway and Sweden,1927,,,existdates,,,,"Norway, Sweden",8.468946,60.472024,Norway
+amnhc_2000229,Expedition,Expedition to the Gaspe Peninsula,1927,,,existdates,,,,Southern Quebec,,,
+amnhc_2000230,Expedition,Expedition to the Mediterranean,1927,,,existdates,,,,"Syria, Palestine, Egypt, Greece, Turkey, etc",,,
+amnhc_2000231,Expedition,Griscom-Crosby Expedition to Eastern Panama,1927,,,existdates,,,,"Panama, Pearl Island",-80.782127,8.537981,Panama
+amnhc_2000232,Expedition,Heilner Expedition to Alaska,1927,,,existdates,,,,"Pavlof Bay, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000233,Expedition,Putnam Baffin Island Expedition,1927,,,existdates,,,,Baffin Island,,,
+amnhc_2000234,Expedition,Vertebrate Palaeontology Expedition,1927,,,existdates,,,,Western Nebraska,-99.901813,41.492537,Nebraska
+amnhc_2000235,Expedition,Woodcraft Indian Trip to the Southwest of the American Museum of Natural History (1927),1927,,,existdates,,,,"No. Dakota to Arizona (Grand Canyon, Petrified Forest)",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000236,Expedition,Day Roraima Expedition of the American Museum of Natural History (1927-1928),1927,,,existdates,,,,"No. Dakota to Arizona (Grand Canyon, Petrified Forest)",-111.093731,34.048928,Arizona
+amnhc_2000237,Expedition,Carlisle-Clark African Expedition of the American Museum of Natural History (1928),1928,,,existdates,,,,"Kenya, Uganda, Tanganyika, Sudan, Cairo",,,
+amnhc_2000238,Expedition,Herpetology Expedition,1928,,,existdates,,,,southwestern Missouri and Arkansas,-91.831833,35.20105,Arkansas
+amnhc_2000240,Expedition,Sanford-Legendre African Expedition,1928,,,existdates,,,,southwestern Missouri and Arkansas,-91.831833,35.20105,Arkansas
+amnhc_2000241,Expedition,Schwarz European Expedition,1928,,,existdates,,,,Europe,,,
+amnhc_2000242,Expedition,Stoll-McCracken Siberian Arctic Expedition of the American Museum of Natural History (1928),1928,,,existdates,,,,Europe,,,
+amnhc_2000243,Expedition,Thorne-Correia Expedition (1928-1929),,1928,1929,existdates,,,,"Sao Thome, Principe, Gulf of Guinea (Portuguese West Africa)",10.267895,1.650801,Equatorial Guinea
+amnhc_2000244,Expedition,Vertebrate Palaeontology Expeditions,1928,,,existdates,,,,"Barstow, California",-119.417932,36.778261,California
+amnhc_2000245,Expedition,Weber Panama Expedition,1928,,,existdates,,,,Panama,-80.782127,8.537981,Panama
+amnhc_2000247,Expedition,Tyler Duida Expedition of the American Museum of Natural History (1928-1929),1928,,,existdates,,,,"Mt. Duida, headwaters of Orinoco River, Venezuela",-66.58973,6.42375,Venezuela
+amnhc_2000248,Expedition,Rockefeller-Murphy Expedition (1928-1929),1928,,,existdates,,,,Belgian Congo,21.758664,-4.038333,Congo [DRC]
+amnhc_2000249,Expedition,Vaillant Expedition to Mexico,1928,,,existdates,,,,Belgian Congo,-105.032363,34.97273,New Mexico
+amnhc_2000250,Expedition,Kahn-Granger Expedition,,1928,1930,existdates,,,,Dutch Guiana,-53.125782,3.933889,French Guiana
+amnhc_2000252,Expedition,Ackland Georgia Expedition,1929,,,existdates,,,,"Okefenokee Swamp, Southern Georgia",-36.587909,-54.429579,South Georgia and the South Sandwich Islands
+amnhc_2000253,Expedition,Bernheimer Expedition (7),1929,,,existdates,,,,"Montezuma Creek (Utah), San Juan River",,,
+amnhc_2000254,Expedition,Canyon del Muerto Expedition,1929,,,existdates,,,,"Canyon del Muerto, Arizona",-111.093731,34.048928,Arizona
+amnhc_2000255,Expedition,Curran Panama Expedition (1928-1929),1929,,,existdates,,,,"Panama, Canal Zone",-80.782127,8.537981,Panama
+amnhc_2000256,Expedition,De Sola Cuban Expedition,1929,,,existdates,,,,Cuba,-77.781167,21.521757,Cuba
+amnhc_2000258,Expedition,Heilprin Yucatan Expedition,1929,,,existdates,,,,Yucatan (Chichen Itza),,,
+amnhc_2000259,Expedition,Klingel Haiti Expedition,1929,,,existdates,,,,Haiti,-72.285215,18.971187,Haiti
+amnhc_2000260,Expedition,Straus Central African Expedition (1929),1929,,,existdates,,,,"Uganda, Kenya, Nyasaland",,,
+amnhc_2000261,Expedition,Thompson Archaeological Expedition,1929,,,existdates,,,,Arizona,-111.093731,34.048928,Arizona
+amnhc_2000262,Expedition,Heilprin Expedition to Santo Domingo of the American Museum of Natural History (2nd : 1929-1930),1929,,,existdates,,,,Arizona,-111.093731,34.048928,Arizona
+amnhc_2000263,Expedition,Heilprin Florida Expedition,1929,,,existdates,,,,Arizona,-81.515754,27.664827,Florida
+amnhc_2000264,Expedition,Mission Zoologique Franco-Anglo-Américaine à Madagascar (1929-1931),1929,,,existdates,,,,Arizona,46.869107,-18.766947,Madagascar
+amnhc_2000265,Expedition,Morden-Graves North Asiatic Expedition of the American Museum of Natural History (1929-1930),1929,,,existdates,,,,Arizona,-111.093731,34.048928,Arizona
+amnhc_2000266,Expedition,Ottley-Anthony South American Expedition,,1929,1930,existdates,,,,"Peru, Bolivia, Chile, Argentina, Paraguay, Uruguay, Brazil",-51.92528,-14.235004,Brazil
+amnhc_2000267,Expedition,Texas-Colorado Archaeological Expedition,,1929,1930,existdates,,,,"Texas, Colorado, Wyoming",-107.290284,43.075968,Wyoming
+amnhc_2000268,Expedition,Charles L. Bernheimer pictograph Research Expedition,,1929,1930,existdates,,,,"Canyon del Muerto caves in Arizona, New Mexico and Utah",-105.032363,34.97273,New Mexico
+amnhc_2000269,Expedition,Polynesian Expedition,1930,,,existdates,,,,"Canyon del Muerto caves in Arizona, New Mexico and Utah",-105.032363,34.97273,New Mexico
+amnhc_2000270,Expedition,Columbia University-American Museum of Natural History Expedition to Africa (1929-1931),,1929,1931,existdates,,,,"Belgian Congo, French West Africa",22.937506,-30.559482,South Africa
+amnhc_2000271,Expedition,Martin Johnson African Expedition,1931,,,existdates,,,,"Belgian Congo, French West Africa",-53.125782,3.933889,French Guiana
+amnhc_2000272,Expedition,Snodgrasse-Folsom Expedition,1931,,,existdates,,,,"Belgian Congo, French West Africa",-53.125782,3.933889,French Guiana
+amnhc_2000273,Expedition,Bacon-Miner Andros Expedition (1930-1932),1930,,,existdates,,,,"Bahamas, Andros Island",,,
+amnhc_2000274,Expedition,Barro Colorado Entomological Expedition (1930),1930,,,existdates,,,,"Gatun Lake, Barro Colorado",-105.782067,39.550051,Colorado
+amnhc_2000275,Expedition,Bermuda Oceanographic Expedition,1930,,,existdates,,,,"Nonsuch Island, Bermuda",-64.75737,32.321384,Bermuda
+amnhc_2000276,Expedition,Bernheimer Expedition 8,1930,,,existdates,,,,"Nonsuch Island, Bermuda",-64.75737,32.321384,Bermuda
+amnhc_2000277,Expedition,Galapagos Islands Expedition,1930,,,existdates,,,,Galapagos Islands,,,
+amnhc_2000278,Expedition,Thorne-Correia Expedition,1930,,,existdates,,,,Spanish and Portuguese Islands of Gulf of Guinea,10.267895,1.650801,Equatorial Guinea
+amnhc_2000279,Expedition,Mead Nebraska Expedition,1930,,,existdates,,,,"Omaha Indian Reservation, Nebraska",-99.901813,41.492537,Nebraska
+amnhc_2000280,Expedition,Noble West Virginia Expedition,1930,,,existdates,,,,"Spruce Knob, West Virginia",-80.454903,38.597626,West Virginia
+amnhc_2000281,Expedition,Olson Archaeological Expedition to Peru and Ecuador,1930,,,existdates,,,,"Ecuador, Peru, Bolivia",-78.183406,-1.831239,Ecuador
+amnhc_2000282,Expedition,Vernay-Lang Kalahari Expedition (1930),1930,,,existdates,,,,"Ecuador, Peru, Bolivia",-63.588653,-16.290154,Bolivia
+amnhc_2000283,Expedition,Wissler Arkansas Expedition,1930,,,existdates,,,,"Arkansas, New Mexico",-91.831833,35.20105,Arkansas
+amnhc_2000284,Expedition,Frick Vertebrate Paleontology Expedition (1929-1931),,1929,1931,existdates,,,,"Ainsworth, Nebraska",-99.901813,41.492537,Nebraska
+amnhc_2000285,Expedition,Klingel West Indies Expedition (1930-1931),,1930,1931-04,existdates,,,,"West Indies, Bahamas, Central America",,,
+amnhc_2000286,Expedition,Chapin-Edson Congo Expedition (1930-1931),1931-04,,,existdates,,,,"West Indies, Bahamas, Central America",21.758664,-4.038333,Congo [DRC]
+amnhc_2000287,Expedition,Scarritt Patagonian Expedition (1930-1931),1931-04,,,existdates,,,,"West Indies, Bahamas, Central America",,,
+amnhc_2000288,Expedition,Barnum Brown Expedition,1931,,,existdates,,,,"Cameron, Arizona",-111.093731,34.048928,Arizona
+amnhc_2000289,Expedition,Boekelman Shell Heap Project,1931,,,existdates,,,,Coast of Central and South America and various islands including Cuba,-77.781167,21.521757,Cuba
+amnhc_2000290,Expedition,Brady Reptile Field Trip,1931,,,existdates,,,,"No. Carolina, Georgia, Florida",-81.515754,27.664827,Florida
+amnhc_2000291,Expedition,O'Donnell-Clark African Expedition of the American Museum of Natural History (1931),1931,,,existdates,,,,Upper Nile,,,
+amnhc_2000292,Expedition,"Pacaraima-Venezuela Expedition, Inc.",1931,,,existdates,,,,Southern Venezuela,-66.58973,6.42375,Venezuela
+amnhc_2000293,Expedition,Legendre Indochina Expedition (1931-1932),1931,,,existdates,,,,Southern Venezuela,-66.58973,6.42375,Venezuela
+amnhc_2000295,Expedition,Mead New Guinea Expedition,1931,,,existdates,,,,Southern Venezuela,143.95555,-6.314993,Papua New Guinea
+amnhc_2000296,Expedition,Anthony-Ottley Venezuelan Expedition (1932),1932,,,existdates,,,,"Merida, Venezuela",-66.58973,6.42375,Venezuela
+amnhc_2000297,Expedition,Bennett Expedition to Peru,1932,,,existdates,,,,"La Paz, Bolivia",-75.015152,-9.189967,Peru
+amnhc_2000298,Expedition,Brown Vertebrate Paleontology Expedition (1931-1933),1932,,,existdates,,,,"Wyoming, Montana",-110.362566,46.879682,Montana
+amnhc_2000299,Expedition,Phipps-Bradley Expedition (1932-1933),1932,,,existdates,,,,West Africa and Angola,22.937506,-30.559482,South Africa
+amnhc_2000300,Expedition,Pratt Honduras Expedition,1932,,,existdates,,,,Honduras,-86.241905,15.199999,Honduras
+amnhc_2000301,Expedition,Shapiro Expedition to the Orient,1932,,,existdates,,,,"Hawaii, Japan, China, Malaysia",101.975766,4.210484,Malaysia
+amnhc_2000302,Expedition,Armstrong Expedition to the Dominican Republic (1932-1933),,1932,1933,existdates,,,,"Santo Domingo, Dominican Republic",-70.162651,18.735693,Dominican Republic
+amnhc_2000303,Expedition,Bird Expedition to Tierra del Fuego,,1932,1933,existdates,,,,"Tierra del Fuego (Navarin Island, Lago Fanjano)",,,
+amnhc_2000304,Expedition,Bennett-Bird Bolivian Expedition of the American Museum of Natural History (1933-1934),1933,,,existdates,,,,"Tierra del Fuego (Navarin Island, Lago Fanjano)",,,
+amnhc_2000305,Expedition,Archbold Expedition to New Guinea (1st : 1933-1934),1933,,,existdates,,,,New Guinea,143.95555,-6.314993,Papua New Guinea
+amnhc_2000306,Expedition,Bartlett-Norcross Expedition,1933,,,existdates,,,,"Fox(e?) Basin, Northwest Territories, Canada (Arctic)",-106.346771,56.130366,Canada
+amnhc_2000307,Expedition,Brown Vertebrate Palaeontology Expeditions,,1933,1934,existdates,,,,"Wyoming, Montana, South Dakota",-99.901813,43.969515,South Dakota
+amnhc_2000308,Expedition,Davison African Expedition,1934,,,existdates,,,,"Wyoming, Montana, South Dakota",-99.901813,43.969515,South Dakota
+amnhc_2000309,Expedition,Lutz Canal Zone Expedition (1933),1933,,,existdates,,,,Panama,-80.782127,8.537981,Panama
+amnhc_2000310,Expedition,Martin Johnson African Expedition,1933,,,existdates,,,,Panama,-80.782127,8.537981,Panama
+amnhc_2000311,Expedition,Miner-Olsen Expedition to West Indies,1933,,,existdates,,,,"Rose Island, Andros Island",,,
+amnhc_2000312,Expedition,Mitra Expedition to Burma,1933,,,existdates,,,,"Assam, Burma",95.956223,21.913965,Myanmar [Burma]
+amnhc_2000313,Expedition,Byrd Antarctic Expedition (2nd : 1933-1935),1933,,,existdates,,,,"Assam, Burma",95.956223,21.913965,Myanmar [Burma]
+amnhc_2000314,Expedition,Shapiro Tahiti Expedition,1933,,,existdates,,,,Tahiti,,,
+amnhc_2000315,Expedition,Vernay Malaysian Expedition,1933,,,existdates,,,,Malay Peninsula,,,
+amnhc_2000316,Expedition,Scarritt Patagonian Expedition (2nd : 1933-1934),1933,,,existdates,,,,Malay Peninsula,,,
+amnhc_2000317,Expedition,Anthony Wyoming Expedition,1934,,,existdates,,,,Wyoming,-107.290284,43.075968,Wyoming
+amnhc_2000318,Expedition,Bird Labrador Expedition,1934,,,existdates,,,,"Hopedale, Labrador",,,
+amnhc_2000319,Expedition,Grand Canyon Entomological Expedition (1934),1934,,,existdates,,,,Grand Canyon,,,
+amnhc_2000320,Expedition,Heilner Cuba Expedition,1934,,,existdates,,,,"Zapata Swamp, Cuba",-77.781167,21.521757,Cuba
+amnhc_2000321,Expedition,Puerto Rico Archaeological Survey,1934,,,existdates,,,,Archaeological sites in Puerto Rico,-66.590149,18.220833,Puerto Rico
+amnhc_2000322,Expedition,Archbold Expedition to New Guinea (2nd : 1936-1937),,1934,1939,existdates,,,,"New Guinea (Papua, Daru, Lake Habbema)",143.95555,-6.314993,Papua New Guinea
+amnhc_2000323,Expedition,Bird Chilean Expedition,1939,,,existdates,,,,"New Guinea (Papua, Daru, Lake Habbema)",143.95555,-6.314993,Papua New Guinea
+amnhc_2000324,Expedition,Snyder Canadian Expedition (Peace River District),1939,,,existdates,,,,"New Guinea (Papua, Daru, Lake Habbema)",-77.033418,38.905985,District of Columbia
+amnhc_2000325,Expedition,Templeton Crocker Pacific Expedition (1st : 1934-1935),1939,,,existdates,,,,"New Guinea (Papua, Daru, Lake Habbema)",143.95555,-6.314993,Papua New Guinea
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935,,,existdates,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-08,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-10,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-15,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-19,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-20,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-26,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-28,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-30,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-01,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-03,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-04,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-05,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-07,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-11,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-12,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-13,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-15,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-16,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-18,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-19,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-20,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-23,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-24,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-03,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-04,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-06,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-12,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-13,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-14,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-17,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-18,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-20,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-21,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-22,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-28,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-04-05,,,place,,,,Rangoon,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-10,,,chronitem,Collecting had begun by McCann and Stanford. 110 mules were outfitted for the journey.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-15,,,chronitem,Team visited and explored Jade mines.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-26,,,chronitem,Trail to Gora crossed the upper Uyu River.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-01-30,,,chronitem,"At 4200 ft above sea level, this site was the highest point reachech throughout the expedition.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-05,,,chronitem,"Visited by Rowley and Morris; located the foot of the Naga Hills, west of the Cindwin River.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-07,,,chronitem,"Visited by Morris and McCann, where a salt spring was found in the depth of the forest. Tracks of elephant, guar, sambar, and tiger were also found.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-11,,,chronitem,Returned to Dalu.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-12,,,chronitem,"Trip taken by Vernay, Morris, Hopwood, and Rowley.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-13,,,chronitem,"Trip taken by Vernay, Morris, Hopwood, and Rowley.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-15,,,chronitem,Returned to Dalu.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-16,,,chronitem,"Hopwood returns to Rangoon, taking with him the specimens already collected and 58 of the mules.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-18,,,chronitem,Small party leaves Dalu for a short trip down river.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-19,,,chronitem,Journey continues down river.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-20,,,chronitem,"Party divides: Vernay and Rowley continue down the stream in boats, while Morris, Raven, and McCann continue down the west bank of the Chindwin wth the mules.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-20,,,chronitem,Reached at noon.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-20,,,chronitem,Reached around mid afternoon.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-02-23,,,chronitem,Party reconnects and travels together.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-03,,,chronitem,Sailung is along the Chindwin. Here the party paid off the muleteers and continued the journey in twin dugouts connected by bamboo platforms.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-04,,,chronitem,"Vernay and Rowley met the rest of the party here, having gone ahead the previous day.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-06,,,chronitem,"Vernay, Morris, Raven, and Rowley leave for Hahti to visit the Naga head hunters.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-10,,,chronitem,"Equipment is loaded onto the twin dugouts and the entire part proceeded down the Chindwin. Collecting was carried on, on both sides of the river.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-12,,,chronitem,Camp pitched on the west side of the river.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-13,,,chronitem,Party spent the night in Moklok.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-14,,,chronitem,Arrived in the afternoon and continued onward.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-14,,,chronitem,Camp pitched on a sandbank.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-17,,,chronitem,Party took use of Tamanthi's post and telegraph offices to reconnect with civilization.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-18,,,chronitem,Party traveled down stream collecting on both sides of the river. Sinniang was reached by evening. Night travel down the river was continued with the use of head lamps.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-20,,,chronitem,Night camp pitched at Maungkan.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-21,,,chronitem,"Vernay and Raven left in small boats for a quick run to Homalin, while the rest of part followed more leisurely (arriving the evening of March 22), collecting along the way.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-21,,,chronitem,Night camp pitched at Kawya.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-22,,,chronitem,Rest of party arrives.,,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-03-28,,,chronitem,"Party boarded a steamer and arrived in Mawlaik in the evening. Here, another steamer was boarded.",,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935-04-05,,,chronitem,Party arrives. (2),,,,,,
+amnhc_2000326,Expedition,Vernay-Hopwood Chindwin Expedition of the American Museum of Natural History (1934-1935),1935,,,resourcerelation,,,,,,,
+amnhc_2000327,Expedition,American Museum-Sinclair Dinosaur Expedition,1935,,,resourcerelation,,,,,,,
+amnhc_2000328,Expedition,Sage West China Expedition (1934),1935,,,resourcerelation,,,,,104.195397,35.86166,China
+amnhc_2000329,Expedition,American Museum-Hispaniola Expedition (1935),1935,,,existdates,,,,"Haiti, Dominican Republic",-70.162651,18.735693,Dominican Republic
+amnhc_2000330,Expedition,AMNH-Cornell University Expedition,1935,,,existdates,,,,"United States (15,000 mile tour)",-95.712891,37.09024,United States
+amnhc_2000331,Expedition,Colombia Entomological Expedition,1935,,,existdates,,,,Colombia,-74.297333,4.570868,Colombia
+amnhc_2000333,Expedition,Davison Alberta Expedition,1935,,,existdates,,,,"Entrance, Alberta, Canada, Jasper National Park",,,
+amnhc_2000334,Expedition,Harriman Idaho Expedition,1935,,,existdates,,,,"Idaho, Wyoming",-114.742041,44.068202,Idaho
+amnhc_2000335,Expedition,Morden Hawaii Expedition,1935,,,existdates,,,,Hawaiian Islands,-155.665857,19.898682,Hawaii
+amnhc_2000336,Expedition,Childs Frick Nevada Expedition,1935,,,existdates,,,,Nevada,-116.419389,38.80261,Nevada
+amnhc_2000337,Expedition,Preston California Expedition,1935,,,existdates,,,,California,-119.417932,36.778261,California
+amnhc_2000338,Expedition,Scarritt Expedition (3rd : 1935),1935,,,existdates,,,,"Sweetgrass County, Montana",-110.362566,46.879682,Montana
+amnhc_2000339,Expedition,Snyder Colorado Expedition,,1935,1936,existdates,,,,Colorado,-105.782067,39.550051,Colorado
+amnhc_2000340,Expedition,Vaillant Mexico Expeditions (1928-1936),1936,,,existdates,,,,Colorado,-105.032363,34.97273,New Mexico
+amnhc_2000341,Expedition,Alberta-British Columbia Expedition (1st : 1936),1936,,,existdates,,,,"Alberta, British Columbia",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000342,Expedition,Bennett Expedition to Peru (3rd : 1936),1936,,,existdates,,,,"Alberta, British Columbia",-75.015152,-9.189967,Peru
+amnhc_2000343,Expedition,Brown Vertebrate Palaeontology Expedition,1936,,,existdates,,,,"Arizona, Utah, and Idiana",,,
+amnhc_2000344,Expedition,William D. Campbell African Expedition of the American Museum of Natural History (1936-1937),,1936,1937,existdates,,,,"East Africa, Belgian Congo",21.758664,-4.038333,Congo [DRC]
+amnhc_2000345,Expedition,The F. T. Davison India Expedition,1936,,,existdates,,,,"India, Nepal",78.96288,20.593684,India
+amnhc_2000346,Expedition,"Fleischmann-Clark, American Museum, Indo-China Expedition (1936)",1936,,,existdates,,,,Southern Indo-China (Vietnam),108.277199,14.058324,Vietnam
+amnhc_2000347,Expedition,Frick Alaska Expedition,1936,,,existdates,,,,"Fairbanks, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000348,Expedition,Lerner Cape Breton Expedition (1st : 1936),1936,,,existdates,,,,"Cape Breton, Wedgeport, Nova Scotia",-24.013197,16.002082,Cape Verde
+amnhc_2000349,Expedition,Morden Expedition to Brazil,1936,,,existdates,,,,"Brazil, Ecuador",-51.92528,-14.235004,Brazil
+amnhc_2000350,Expedition,Newsom-Watson Anticosti Island Expedition,1936,,,existdates,,,,"Anticosti Island, Canada",-106.346771,56.130366,Canada
+amnhc_2000351,Expedition,Panama Expedition,1936,,,existdates,,,,Panama Canal,-80.782127,8.537981,Panama
+amnhc_2000352,Expedition,Rainbow Bridge-Monument Valley Expedition,1936,,,existdates,,,,"Rainbow Bridge-Monument Valley, Arizona and Southern Utah",-111.093731,34.048928,Arizona
+amnhc_2000353,Expedition,Rumsey British Columbia Expedition,1936,,,existdates,,,,British Columbia,71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000354,Expedition,Scarritt Expedition to Rocky Mountains,1936,,,existdates,,,,"Sweet Grass County, Montana",-110.362566,46.879682,Montana
+amnhc_2000355,Expedition,American Museum Yukon Territory-Alaskan Expedition (1936),1936,,,existdates,,,,Alaska (Mt. McKinley Region) and Yukon Territory,71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000356,Expedition,Stillman-Durrell Kenai Peninsula Expedition,1936,,,existdates,,,,"Kenai Peninsula, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000357,Expedition,Bird Chilean Expedition,1936,,,existdates,,,,"Kenai Peninsula, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000358,Expedition,Templeton Crocker Pacific Expedition (2nd : 1936-1937),1936,,,existdates,,,,"Kenai Peninsula, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000359,Expedition,William D. Campbell African Expedition of the American Museum of Natural History (1936-1937),1936,,,existdates,,,,"Kenai Peninsula, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000360,Expedition,Mead Bali Expedition,1936,,,existdates,,,,"Kenai Peninsula, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000361,Expedition,Patterson Grand Canyon Expedition of the American Museum of Natural History,1937,,,existdates,,,,"Islands of Colorado River at Grand Canyon, Arizona (Shiva's Temple)",-105.782067,39.550051,Colorado
+amnhc_2000362,Expedition,Badlands Expedition,1937,,,existdates,,,,"Big Badlands, South Dakota",-99.901813,43.969515,South Dakota
+amnhc_2000363,Expedition,Chapin African Expedition,1937,,,existdates,,,,"Lake Albert, Albert National Park, Uganda",32.290275,1.373333,Uganda
+amnhc_2000606,Expedition,Bird Study Trip to Peru,1965,,,existdates,,,,"Machu Picchu, Purichuco, Pachacamac sites, Huaca Prieta",-75.015152,-9.189967,Peru
+amnhc_2000607,Expedition,Bogert Field Trip to Ceylon,1965,,,existdates,,,,Ceylon,,,
+amnhc_2000608,Expedition,Gould Field Trip to Australia,1965,,,existdates,,,,Ceylon,133.775136,-25.274398,Australia
+amnhc_2000609,Expedition,Lanyon Field Trip to West Indies,1965,,,existdates,,,,"St. Lucia, Haiti, Grand Cayman Islands in the West Indies",-80.566956,19.513469,Cayman Islands
+amnhc_2000610,Expedition,Turnbull Field Trip to Africa,1965,,,existdates,,,,"St. Lucia, Haiti, Grand Cayman Islands in the West Indies",22.937506,-30.559482,South Africa
+amnhc_2000611,Expedition,"Bird Field Trip to Argentina, Chile and Peru",1966,,,existdates,,,,"Patagonia, Santa Cruz River, Northern Chile, Northern Peru",-71.542969,-35.675147,Chile
+amnhc_2000612,Expedition,Colbert Field Trip to Western U.S.,1966,,,existdates,,,,"West Texas, New Mexico, Arizona, Utah",,,U.S. Minor Outlying Islands
+amnhc_2000613,Expedition,Expedition to Guatemala,1966,,,existdates,,,,"Rio Usumacinta basin, Guatemala",-90.230759,15.783471,Guatemala
+amnhc_2000614,Expedition,Wyoming Field Trip,1966,,,existdates,,,,Central Wyoming (Cretaceous Mesaverde Formation),-107.290284,43.075968,Wyoming
+amnhc_2000615,Expedition,Bogert Expedition to Mexico,1967,,,existdates,,,,"Sierra Madre del Sur, Oaxaca, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000616,Expedition,Expedition to Australia,1967,,,existdates,,,,"Barrow Island, Australia",133.775136,-25.274398,Australia
+amnhc_2000617,Expedition,Martin Martinique Expedition,1967,,,existdates,,,,"Martinique, West Indies",-61.024174,14.641528,Martinique
+amnhc_2000618,Expedition,Rozen Field Trips to Arizona and South Africa,1967,,,existdates,,,,"Arizona, South Africa",22.937506,-30.559482,South Africa
+amnhc_2000619,Expedition,Short Field Trip to California and Mexico,1967,,,existdates,,,,"California, Mexico",-119.417932,36.778261,California
+amnhc_2000620,Expedition,Stucker Field Trip to North Carolina,1967,,,existdates,,,,"Chatham County, North Carolina - a clay pit",-79.0193,35.759573,North Carolina
+amnhc_2000621,Expedition,Expedition to Mozambique,1968,,,existdates,,,,Mozambique,35.529562,-18.665695,Mozambique
+amnhc_2000622,Expedition,Gould Second Field Trip to Australia,1968,,,existdates,,,,Australia,133.775136,-25.274398,Australia
+amnhc_2000623,Expedition,Van Deusen Expedition to Australia and New Guinea,1968,,,existdates,,,,"Australia, New Guinea",143.95555,-6.314993,Papua New Guinea
+amnhc_2000624,Expedition,Zweifel Field Trip to New Guinea,1968,,,existdates,,,,New Guinea,143.95555,-6.314993,Papua New Guinea
+amnhc_2000625,Expedition,Brush Field Trip to Mexico,1969,,,existdates,,,,"Guerrero, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000626,Expedition,Gould Field Trip to Australia,1969,,,existdates,,,,"Guerrero, Mexico",133.775136,-25.274398,Australia
+amnhc_2000627,Expedition,Expedition to Antarctica,1969,,,existdates,,,,"Guerrero, Mexico",-0.071389,-75.250973,Antarctica
+amnhc_2000628,Expedition,Alpha Helix Expedition to New Guinea,1970,,,existdates,,,,New Guinea,143.95555,-6.314993,Papua New Guinea
+amnhc_2000629,Expedition,American Museum French Polynesia Expedition,1970,,,existdates,,,,"Rapa, Tuamotu Archipelago",-149.406843,-17.679742,French Polynesia
+amnhc_2000630,Expedition,Bird Field Trip to Chile,1970,,,existdates,,,,"Fell's Cave, Southern Chile",-71.542969,-35.675147,Chile
+amnhc_2000631,Expedition,Dupree Field Trip to Afghanistan,1970,,,existdates,,,,Afghanistan,67.709953,33.93911,Afghanistan
+amnhc_2000632,Expedition,Expedition to Bahamas,1970,,,existdates,,,,"Bahamas, Tektite ll underwater, plus ongoing work with Lerner Marine Laboratory in Bimini coral reef fish communities",-77.39628,25.03428,Bahamas
+amnhc_2000633,Expedition,Expedition to Virgin Islands,1970,,,existdates,,,,Virgin Islands,-64.639968,18.420695,British Virgin Islands
+amnhc_2000634,Expedition,Friedman South West Africa Expedition,1970,,,existdates,,,,South West Africa,22.937506,-30.559482,South Africa
+amnhc_2000635,Expedition,Rozen Field Trip to Chile,1970,,,existdates,,,,"Atacama Desert, Chile",-71.542969,-35.675147,Chile
+amnhc_2000636,Expedition,Myers Field Trip to Panama and Colombia,1970,,,existdates,,,,"Atacama Desert, Chile",-74.297333,4.570868,Colombia
+amnhc_2000637,Expedition,Expedition to Guatemala,1970,,,existdates,,,,"Atacama Desert, Chile",-90.230759,15.783471,Guatemala
+amnhc_2000638,Expedition,Jane Belo Fund Expedition,1970,,,existdates,,,,"Atacama Desert, Chile",-71.542969,-35.675147,Chile
+amnhc_2000639,Expedition,Keith Field Trip to Liberia,1971,,,existdates,,,,"Mt. Nimba area, Liberia",-9.429499,6.428055,Liberia
+amnhc_2000640,Expedition,Kirsteuer Field Trip to North Africa,1971,,,existdates,,,,Tunisia,22.937506,-30.559482,South Africa
+amnhc_2000641,Expedition,Lanyon Expedition to Argentina and Brazil,1971,,,existdates,,,,"Argentina, Brazil",-63.616672,-38.416097,Argentina
+amnhc_2000642,Expedition,Tedford Field Trip to Australia,1971,,,existdates,,,,"Lake Callabona, South Australia",133.775136,-25.274398,Australia
+amnhc_2000643,Expedition,Bird Canal Zone Field Trip,1971,,,existdates,,,,"Lake Callabona, South Australia",133.775136,-25.274398,Australia
+amnhc_2000644,Expedition,Mozambique Field Trip,1971,,,existdates,,,,"Lake Callabona, South Australia",35.529562,-18.665695,Mozambique
+amnhc_2000645,Expedition,Musser Field Trip to Southern Asia,1971,,,existdates,,,,"Lake Callabona, South Australia",133.775136,-25.274398,Australia
+amnhc_2000646,Expedition,Rio Negro Expedition,1972,,,existdates,,,,"Upper Rio Negro River, Venezuela",-66.58973,6.42375,Venezuela
+amnhc_2000647,Expedition,Ekholm Mexican Expedition,1973,,,existdates,,,,"Tabasco, Chiapas, Yucatan, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000648,Expedition,Mead Field Trip to New Guinea,1973,,,existdates,,,,"Papua, New Guinea",143.95555,-6.314993,Papua New Guinea
+amnhc_2000649,Expedition,Newell Expedition to Northwest Africa,1973,,,existdates,,,,"Papua, New Guinea",22.937506,-30.559482,South Africa
+amnhc_2000650,Expedition,Rozen Field Trip to Brazil,1973,,,existdates,,,,Brazil,-51.92528,-14.235004,Brazil
+amnhc_2000651,Expedition,Allahdino Expeditions,,1973,1975,existdates,,,,"Indus Valley, Pakistan",69.345116,30.375321,Pakistan
+amnhc_2000652,Expedition,Thomas Field Trips to Nevada and Georgia,1973,,,existdates,,,,"Gatecliff Shelter and Toyabe Range, and Monitor Valley, etc., Nevada",-36.587909,-54.429579,South Georgia and the South Sandwich Islands
+amnhc_2000653,Expedition,Expedition to Panama,1974,,,existdates,,,,"Cerro Tacarcuna, Panama",-80.782127,8.537981,Panama
+amnhc_2000654,Expedition,Musser Field Trips to Indonesia,1974,,,existdates,,,,"Cerro Tacarcuna, Panama",113.921327,-0.789275,Indonesia
+amnhc_2000655,Expedition,Newell Expeditions to Tunisia,1974,,,existdates,,,,Southern Tunisia,9.537499,33.886917,Tunisia
+amnhc_2000656,Expedition,"Tattersall Field Trip to Madagascar, Comoro Islands",1974,,,existdates,,,,"Madagascar, Comoro Islands",,,
+amnhc_2000657,Expedition,Myers Poison Dart Frog Field Trip,,1974,1978,existdates,,,,"Ecuador, Peru, Colombia",-74.297333,4.570868,Colombia
+amnhc_2000658,Expedition,Carneiro Field Trip to Brazil,1975,,,existdates,,,,Central Brazil,-51.92528,-14.235004,Brazil
+amnhc_2000659,Expedition,Vuilleumier Field Trip to Peru and Colombia,1975,,,existdates,,,,"Peru (Andes), Colombia",-74.297333,4.570868,Colombia
+amnhc_2000660,Expedition,Diamond Field Trip to Solomon Islands and New Guinea,1976,,,existdates,,,,"Solomon Islands, New Guinea",160.156194,-9.64571,Solomon Islands
+amnhc_2000661,Expedition,Dickerman Field Trip to South America,1976,,,existdates,,,,"Solomon Islands, New Guinea",160.156194,-9.64571,Solomon Islands
+amnhc_2000662,Expedition,Vuilleumier Field Trip to Iran and Kashmir,1976,,,existdates,,,,"Iran, Kashmir",53.688046,32.427908,Iran
+amnhc_2000663,Expedition,Amadon Field Trip to Africa,1977,,,existdates,,,,Africa,22.937506,-30.559482,South Africa
+amnhc_2000664,Expedition,Lanyon Field Trip to Georgia,1977,,,existdates,,,,"St. Catherine's Island, Georgia",-36.587909,-54.429579,South Georgia and the South Sandwich Islands
+amnhc_2000665,Expedition,Schaeffer Field Trip to the Arctic,1977,,,existdates,,,,Ellesmere Island,,,
+amnhc_2000666,Expedition,Short Field Trip to Mauritius and Seychelles,1977,,,existdates,,,,Mauritius and Seychelles,55.491977,-4.679574,Seychelles
+amnhc_2000667,Expedition,Expedition to Argentina,1978,,,existdates,,,,Argentine Patagonia,-63.616672,-38.416097,Argentina
+amnhc_2000668,Expedition,Gaffney Field Trip to West,1978,,,existdates,,,,Jurassic formations of Colorado and Wyoming,-105.782067,39.550051,Colorado
+amnhc_2000669,Expedition,Le Croy Field Trip to New Guinea,1978,,,existdates,,,,"Papua, New Guinea",143.95555,-6.314993,Papua New Guinea
+amnhc_2000670,Expedition,Short Field Trip to Kenya,,1978,1979,existdates,,,,Kenya,37.906193,-0.023559,Kenya
+amnhc_2000671,Expedition,Diamond Field Trip to New Guinea and Australia,1979,,,existdates,,,,"Gauttier Mountains, New Guinea",143.95555,-6.314993,Papua New Guinea
+amnhc_2000672,Expedition,Guatemala Field Trip,1979,,,existdates,,,,Pacific Lowlands of Guatemala,-90.230759,15.783471,Guatemala
+amnhc_2000673,Expedition,McKenna Field Trip to Greenland,1979,,,existdates,,,,"Disko Island, western Greenland",-42.604303,71.706936,Greenland
+amnhc_2000674,Expedition,Hidden Cave Project,,1979,1980,existdates,,,,"Hidden Cave, Nebraskaand St. Catherine's Island, Georgia",-36.587909,-54.429579,South Georgia and the South Sandwich Islands
+amnhc_2000675,Expedition,Myers Field Trips to Central America,1980,,,existdates,,,,"Hidden Cave, Nebraskaand St. Catherine's Island, Georgia",-36.587909,-54.429579,South Georgia and the South Sandwich Islands
+amnhc_2000676,Expedition,Australia Field Trip,1980,,,existdates,,,,"Eastern Lake Eyre basin, Australia",133.775136,-25.274398,Australia
+amnhc_2000677,Expedition,Egyptian Field Trip,1980-03,,,existdates,,,,Island of Zabargad (off the coast of Egypt in the Red Sea),30.802498,26.820553,Egypt
+amnhc_2000678,Expedition,Expedition to Bolivia,1980-03,,,existdates,,,,Island of Zabargad (off the coast of Egypt in the Red Sea),-63.588653,-16.290154,Bolivia
+amnhc_2000679,Expedition,Gaffney Field Trip to Australia,1980,,,existdates,,,,"Sydney, Lord Howe Island, Australia",133.775136,-25.274398,Australia
+amnhc_2000680,Expedition,Rozen Field Trip to West,1980,,,existdates,,,,"California deserts, southern Nevada, western Arizona",-119.417932,36.778261,California
+amnhc_2000681,Expedition,Schuh Field Trip to Oregon and California,1980,,,existdates,,,,"Oregon, northern California",-119.417932,36.778261,California
+amnhc_2000682,Expedition,Thomas Expedition to Nevada,1981,,,existdates,,,,"Mount Jefferson, Nevada",-116.419389,38.80261,Nevada
+amnhc_2000683,Expedition,Field Trips to Central Chile,1981,,,existdates,,,,"Mount Jefferson, Nevada",-71.542969,-35.675147,Chile
+amnhc_2000684,Expedition,St. Catherine's Island Field Trip,,1981,1982,existdates,,,,"St. Catherine's Island, Georgia",-36.587909,-54.429579,South Georgia and the South Sandwich Islands
+amnhc_2000685,Expedition,Panama Expedition,1982,,,existdates,,,,"St. Catherine's Island, Georgia",-80.782127,8.537981,Panama
+amnhc_2000686,Expedition,Expedition to Baja California,1982,,,existdates,,,,"St. Catherine's Island, Georgia",-119.417932,36.778261,California
+amnhc_2000687,Expedition,Morris trips to south central Peru,1982,,,existdates,,,,"St. Catherine's Island, Georgia",-75.015152,-9.189967,Peru
+amnhc_2000688,Expedition,Field Trips to Korea,1982,,,existdates,,,,"St. Catherine's Island, Georgia",127.510093,40.339852,North Korea
+amnhc_2000689,Expedition,Rozen Field Trip to Pakistan,1984-05,,,existdates,,,,Pakistan,69.345116,30.375321,Pakistan
+amnhc_2000690,Expedition,Cerro de la Neblina Expedition (1984-1985),1984-05,,,existdates,,,,Pakistan,69.345116,30.375321,Pakistan
+amnhc_2000691,Expedition,Field Studies from Southern Chile to Cape Horn,1984-05,,,existdates,,,,Pakistan,-71.542969,-35.675147,Chile
+amnhc_2000692,Expedition,Field Trip to Southern Chile,1984-05,,,existdates,,,,Pakistan,-71.542969,-35.675147,Chile
+amnhc_2000693,Expedition,Field Expeditions to northern South America,1984-05,,,existdates,,,,Pakistan,69.345116,30.375321,Pakistan
+amnhc_2000694,Expedition,Field Trip to Switzerland,1986,,,existdates,,,,"Solothurn, Switzerland",8.227512,46.818188,Switzerland
+amnhc_2000695,Expedition,Expedition to the Yushe Basin,1986,,,existdates,,,,"Solothurn, Switzerland",8.227512,46.818188,Switzerland
+amnhc_2000696,Expedition,Lower Amazon Interdisciplinary Archeological Project,1987,,,existdates,,,,"Santarem and Marajo Island, Brazil",-51.92528,-14.235004,Brazil
+amnhc_2000697,Expedition,Phipps Tapirapecó Expedition (1989),1987,,,existdates,,,,"Santarem and Marajo Island, Brazil",-51.92528,-14.235004,Brazil
+amnhc_2000698,Expedition,Expedition to Green River Basin of Wyoming,1989,,,existdates,,,,Southwestern Wyoming,-107.290284,43.075968,Wyoming
+amnhc_2000699,Expedition,Expeditions to Cuba,1989,,,existdates,,,,Southwestern Wyoming,-77.781167,21.521757,Cuba
+amnhc_2000700,Expedition,Expedition to French Guiana,1989,,,existdates,,,,Southwestern Wyoming,-53.125782,3.933889,French Guiana
+amnhc_2000701,Expedition,Expeditions to Southern Mongolia,1989,,,existdates,,,,Gobi Desert,103.846656,46.862496,Mongolia
+amnhc_2000702,Expedition,Robert G. Goelet American Museum-TERRAMAR Expedition (1994),1994,,,existdates,,,,"Auyantepui, Venezuela",-66.58973,6.42375,Venezuela
+amnhc_2000703,Expedition,Lower California Expedition,1994,,,existdates,,,,"Auyantepui, Venezuela",-119.417932,36.778261,California
+amnhc_2000704,Expedition,"W. W. Price Arizona and Sonoro, Mexico Expedition",1994,,,existdates,,,,"Auyantepui, Venezuela",-111.093731,34.048928,Arizona
+amnhc_2000705,Expedition,Baron Peru Expedition,1994,,,existdates,,,,"Auyantepui, Venezuela",-75.015152,-9.189967,Peru
+amnhc_2000706,Expedition,California Expedition,1895,,,existdates,,,,"San Mateo County, California",-119.417932,36.778261,California
+amnhc_2000707,Expedition,Texas Expedition,1896,,,existdates,,,,"Bexar County and Kerr County, Texas",-99.901813,31.968599,Texas
+amnhc_2000708,Expedition,Stone Expeditions,1896,,,existdates,,,,"Bexar County and Kerr County, Texas",-99.901813,31.968599,Texas
+amnhc_2000709,Expedition,Vertebrate Paleontology Expeditions,1905,,,existdates,,,,"Wyoming, NW Kansas, SW Nebraska, NE Colorado (Jurassic beds)",-105.782067,39.550051,Colorado
+amnhc_2000709,Expedition,Vertebrate Paleontology Expeditions,,1900,1905,existdates,,,,"Wyoming, NW Kansas, SW Nebraska, NE Colorado (Jurassic beds)",-105.782067,39.550051,Colorado
+amnhc_2000710,Expedition,Mammalogy Expedition to collect Bats,1902,,,existdates,,,,Bahamas and Cuba,-77.39628,25.03428,Bahamas
+amnhc_2000711,Expedition,"Wissler Expedition to the Dakotas, Montana and Canada",1906,,,existdates,,,,"Dakotas, Montana and Canada",-110.362566,46.879682,Montana
+amnhc_2000712,Expedition,Tjader Expedition to British East Africa (1906),1906,,,existdates,,,,"Dakotas, Montana and Canada",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000713,Expedition,"Skinner Anthropolical Expeditions to the Indians of Quebec, Manitoba, Wisconsin and Florida",1906,,,existdates,,,,"Dakotas, Montana and Canada",-88.787868,43.78444,Wisconsin
+amnhc_2000714,Expedition,Anthropological Expedition to the Southwest,1909,,,existdates,,,,Arizona and New Mexico,-105.032363,34.97273,New Mexico
+amnhc_2000715,Expedition,Expedition to the North Pacific Coast,1909,,,existdates,,,,"North West coast from northern end of Vancouver Island as far as Skagway, Alaska",-154.493062,63.588753,Alaska
+amnhc_2000716,Expedition,Vertebrate Paleontology Expedition to Montana,1909,,,existdates,,,,Montana,-110.362566,46.879682,Montana
+amnhc_2000717,Expedition,Huntington Expeditions,1909,,,existdates,,,,Montana,-110.362566,46.879682,Montana
+amnhc_2000718,Expedition,"AMNH- Bureau of Fisheries Expedition to Lower California aboard the ""Albatross""",1911,,,existdates,,,,Lower California peninsular and surrounding islands,-119.417932,36.778261,California
+amnhc_2000719,Expedition,Lumholtz Expedition to Mexico and Arizona,1911,,,existdates,,,,,-111.093731,34.048928,Arizona
+amnhc_2000720,Expedition,Entomological Expedition (1912),1912,,,existdates,,,,"Newfoundland, Labrador",,,
+amnhc_2000721,Expedition,Archaeological Expedition to the Maya ruins of Central America,1914,,,existdates,,,,"Southern Yucatan, British Honduras and El Salvador., Guatemala",-90.230759,15.783471,Guatemala
+amnhc_2000722,Expedition,Spinden Expedition to Venezuela,1916,,,existdates,,,,North and Central Venezuela,-66.58973,6.42375,Venezuela
+amnhc_2000723,Expedition,Mammal Department Expedition to Cuba,1917,,,existdates,,,,"Santiago, Cuba",-77.781167,21.521757,Cuba
+amnhc_2000724,Expedition,Brewster-Sanford Expedition of the American Museum of Natural History (1912-1917),1917,,,existdates,,,,"Cuba, West Indies Islands and others of the coast of South America",,,
+amnhc_2000725,Expedition,"Expedition to ""Indian Workshop""",1921,,,existdates,,,,"Headwater reion of the Lehigh Valley, Northeastern Pennsylvania",-77.194525,41.203322,Pennsylvania
+amnhc_2000726,Expedition,"Bernheimer Expeditions, 1st-6th",1921,,,existdates,,,,"Headwater reion of the Lehigh Valley, Northeastern Pennsylvania",-77.194525,41.203322,Pennsylvania
+amnhc_2000727,Expedition,Hay Expedition to Mexico,1922,,,existdates,,,,"Valley of Mexico, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000728,Expedition,Goddard Expedition to British Columbia and Alaska,1922,,,existdates,,,,"Valley of Mexico, Mexico",71.876519,-6.343194,British Indian Ocean Territory
+amnhc_2000729,Expedition,Newell Expedition with Scripps Institute of Oceanography,1922,,,existdates,,,,"Valley of Mexico, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000730,Expedition,Newell Expeditions to Rocky Mountains and Great Basin,1922,,,existdates,,,,"Valley of Mexico, Mexico",-105.032363,34.97273,New Mexico
+amnhc_2000731,Expedition,Expeditions to Cuba,1922,,,existdates,,,,"Valley of Mexico, Mexico",-77.781167,21.521757,Cuba
+amnhc_2000733,Expedition,(Chile 1993),1993,,,existdates,,,,Chile - Atacama Desert and High Andes of the north,-71.542969,-35.675147,Chile
+amnhc_2000734,Expedition,Mammalogy Expedition to Cluba,1997,,,existdates,,,,Cuba,-77.781167,21.521757,Cuba
+amnhc_2000735,Expedition,Explore21 Solomon Islands Expedition (2013),2013,,,existdates,,,,"The Solomon Islands, using the research vessel, Alucia, and and a submersible",160.156194,-9.64571,Solomon Islands
+amnhc_2000736,Expedition,Whitmore Exploring Expedition,2013,,,existdates,,,,"The Solomon Islands, using the research vessel, Alucia, and and a submersible",160.156194,-9.64571,Solomon Islands
+amnhc_2000737,Expedition,Nichols Expedition to the Bering Sea,1926,,,existdates,,,,Bering Sea,,,
+amnhc_2000738,Expedition,Simpson Expedition to Montana,1932,,,existdates,,,,"Sweetgrass County, in south central Montana",-110.362566,46.879682,Montana
