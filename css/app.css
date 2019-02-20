@@ -119,7 +119,7 @@ h1 {
   top: 3%;
 }
 .box.report {
-  height: 66.667%;
+  height: 75%;
 }
 .box.items {
   height: 42%;
@@ -137,7 +137,7 @@ h1 {
 }
 
 .report img {
-  width: 80%;
+  width: 70%;
   height: auto;
   display: block;
 }
@@ -181,10 +181,12 @@ h1 {
   width: calc(91% - 60px);
   height: 94%;
   background: white;
+  overflow: hidden;
+  overflow-y: auto;
 }
 .floor-plan img {
   position: absolute;
-  width: 100%;
+  width: 94%;
   top: 10px;
   left: 0;
   opacity: 0;

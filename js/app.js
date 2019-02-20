@@ -22,6 +22,14 @@ var App = (function() {
     return deferred.promise();
   }
 
+  function preloadImages(images){
+    _.each(images, function(src){
+      var img =  new Image();
+      img.src = src;
+    });
+
+  }
+
   App.prototype.init = function(){
     var _this = this;
 
@@ -48,6 +56,12 @@ var App = (function() {
 
   App.prototype.loadUI = function(){
     var _this = this;
+    var data = this.data;
+
+    // preload images
+    preloadImages(_.pluck(data.reports, 'image'));
+    preloadImages(_.pluck(data.floorPlans, 'image'));
+    preloadImages(_.pluck(data.logos, 'image'));
 
     // load slider
     var $handle = $("#custom-handle");
