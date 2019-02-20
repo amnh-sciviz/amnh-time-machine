@@ -249,6 +249,27 @@ h1 {
   content: "↻";
 }
 
+.expedition-map {
+  position: relative;
+}
+.expedition-map img {
+  width: 100%;
+  height: auto;
+}
+.expedition-map .label {
+  display: block;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: #db3030;
+  border-radius: 50%;
+  margin: 0;
+  margin-left: -4px;
+  margin-top: -4px;
+  padding: 0;
+  text-decoration: none;
+}
+
 .clearfix::after {
   content: "";
   clear: both;

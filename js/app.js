@@ -22,12 +22,20 @@ var App = (function() {
     return deferred.promise();
   }
 
+  function norm(value, a, b){
+    var denom = (b - a);
+    if (denom > 0 || denom < 0) {
+      return (1.0 * value - a) / denom;
+    } else {
+      return 0;
+    }
+  }
+
   function preloadImages(images){
     _.each(images, function(src){
       var img =  new Image();
       img.src = src;
     });
-
   }
 
   App.prototype.init = function(){
@@ -38,6 +46,7 @@ var App = (function() {
     this.$items = $("#items");
     this.$expeditions = $("#expeditions");
     this.$floorplans = $("#floor-plan");
+    this.$map = $("#expedition-map-labels");
 
     this.selectedFloor = 1;
 
@@ -127,6 +136,19 @@ var App = (function() {
     _.each(data, function(index){
       items.push(itemData[index]);
     });
+
+    var $mapItems = $("<div />");
+    _.each(items, function(item){
+      if (isNaN(item.lon) || isNaN(item.lat)) return;
+
+      var $mapItem = $('<a href="'+item.url+'" title="'+item.title+'" class="label"></a>');
+      $mapItem.css({
+        "left": (norm(item.lon, -180, 180) * 100) + "%",
+        "top": (norm(item.lat, 90, -90) * 100) + "%"
+      });
+      $mapItems.append($mapItem);
+    });
+    this.$map.html($mapItems);
 
     var $items = $("<div />");
     _.each(items, function(item){

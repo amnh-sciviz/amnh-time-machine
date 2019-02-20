@@ -17,7 +17,7 @@ parser.add_argument('-rdir', dest="REPORTS_DIR", default="img/annual_reports/%s.
 parser.add_argument('-ldir', dest="LOGOS_DIR", default="img/logos/*.png", help="Directory with logos")
 parser.add_argument('-idir', dest="ITEMS_DIR", default="img/historic_thumbnails/%s.jpg", help="Directory with items")
 parser.add_argument('-reports', dest="REPORTS_FILE", default="data/annual_reports.csv", help="File with annual report data (from scrapeAnnualReports.py)")
-parser.add_argument('-dates', dest="EAC_DATES_FILE", default="data/eac_dates.csv", help="File with EAC dates data (from collectDates.py)")
+parser.add_argument('-dates', dest="EAC_DATES_FILE", default="data/eac_expeditions.csv", help="File with EAC dates data (from collectDates.py)")
 parser.add_argument('-items', dest="ITEMS_FILE", default="data/historic_images.csv", help="File with digital items data (from scrapeDigitalItems.py)")
 parser.add_argument('-start', dest="START_YEAR", default=1869, type=int, help="Start year")
 parser.add_argument('-end', dest="END_YEAR", default=2019, type=int, help="End year")
@@ -116,7 +116,9 @@ for e in eacData:
         "url": "http://data.library.amnh.org/archives-authorities/id/" + e["id"],
         "title": e["name"],
         "event": e["dateevent"],
-        "place": e["dateplace"]
+        "place": e["dateplace"],
+        "lon": e["lon"],
+        "lat": e["lat"]
     }
     yearFrom, yearTo = eac.stringsToDateRange(e["date"], e["fromdate"], e["todate"], e["name"])
     if yearFrom > 0 and yearTo > 0:
