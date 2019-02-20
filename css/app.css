@@ -71,6 +71,7 @@ h1 {
 }
 
 .panel {
+  height: calc(100vh - 180px);
   box-sizing: border-box;
   padding: 10px;
   position: relative;
@@ -98,11 +99,36 @@ h1 {
   padding: 10px;
   background: #fff;
   min-height: 180px;
+  position: absolute;
+  width: 94%;
+  left: 3%;
+  overflow: hidden;
+  overflow-y: auto;
 }
 
 .box.logo {
   min-height: 0;
+  background: none;
 }
+.box.report,
+.box.expeditions {
+  bottom: 0;
+}
+.box.logo,
+.box.items {
+  top: 3%;
+}
+.box.report {
+  height: 66.667%;
+}
+.box.items {
+  height: 42%;
+}
+.box.expeditions {
+  height: 50%;
+}
+
+
 .logo img {
   max-width: 100%;
   max-height: 100px;
@@ -119,10 +145,11 @@ h1 {
 .items a {
   display: inline-block;
   margin: 0 5px 5px 0;
+  width: 31%;
 }
 .items img {
   display: inline-block;
-  width: 90px;
+  width: 100%;
   height: auto;
 }
 
@@ -148,16 +175,16 @@ h1 {
 }
 
 .floor-plan {
-  margin-left: 60px;
-  width: auto;
-  position: relative;
+  top: 3%;
+  left: calc(6% + 60px);
+  position: absolute;
+  width: calc(91% - 60px);
+  height: 94%;
   background: white;
-  min-height: calc(100vh - 200px);
 }
 .floor-plan img {
   position: absolute;
   width: 100%;
-  height: auto;
   top: 10px;
   left: 0;
   opacity: 0;
@@ -166,7 +193,9 @@ h1 {
   opacity: 1;
 }
 .floor-menu {
-  float: left;
+  position: absolute;
+  top: 6%;
+  left: 6%;
   width: 60px;
   background: white;
   text-align: center;
