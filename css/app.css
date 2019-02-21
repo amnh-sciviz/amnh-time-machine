@@ -119,13 +119,26 @@ h1 {
   top: 3%;
 }
 .box.report {
-  height: 66.667%;
+  height: 48%;
 }
 .box.items {
   height: 42%;
 }
 .box.expeditions {
   height: 50%;
+}
+.box.events {
+  display: none;
+  background: #ffe991;
+  bottom: 52%;
+  height: 18%;
+}
+.box.events a {
+  text-decoration: none;
+  color: black;
+}
+.box.events.active {
+  display: block;
 }
 
 
@@ -137,7 +150,7 @@ h1 {
 }
 
 .report img {
-  width: 82%;
+  width: 75%;
   height: auto;
   display: block;
 }

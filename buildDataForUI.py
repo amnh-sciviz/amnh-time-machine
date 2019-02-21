@@ -110,8 +110,8 @@ for item in itemData:
 # retrieve expeditions
 expeditions = []
 _, eacData = io.readCsv(a.EAC_DATES_FILE)
-eacData = [e for e in eacData if e["type"]=="Expedition"]
-for e in eacData:
+expeditionData = [e for e in eacData if e["type"]=="Expedition"]
+for e in expeditionData:
     entry = {
         "url": "http://data.library.amnh.org/archives-authorities/id/" + e["id"],
         "title": e["name"],
@@ -129,12 +129,25 @@ for e in eacData:
             entry["yearTo"] = yearTo
         expeditions.append(entry)
 
+# Retrieve museum events
+museumData = [e for e in eacData if e["type"]=="Museum"]
+museumEvents = []
+for e in museumData:
+    year = eac.stringToYear(e["date"])
+    if year > 0:
+        museumEvents.append({
+            "year": year,
+            "title": e["dateevent"],
+            "url": "http://data.library.amnh.org/archives-authorities/id/amnhc_0000001"
+        })
+
 data = {
     "logos": logos,
     "floorPlans": floorPlans,
     "reports": reports,
     "items": items,
-    "expeditions": expeditions
+    "expeditions": expeditions,
+    "events": museumEvents
 }
 dataKeys = list(data.keys())
 

@@ -47,6 +47,8 @@ var App = (function() {
     this.$expeditions = $("#expeditions");
     this.$floorplans = $("#floor-plan");
     this.$map = $("#expedition-map-labels");
+    this.$events = $("#events");
+    this.$eventsContainer = this.$events.parent();
 
     this.selectedFloor = 1;
 
@@ -123,8 +125,26 @@ var App = (function() {
       else if (key==="reports") _this.renderReports(data);
       else if (key==="items") _this.renderItems(data);
       else if (key==="expeditions") _this.renderExpeditions(data);
+      else if (key==="events") _this.renderEvents(data);
     });
   };
+
+  App.prototype.renderEvents = function(data){
+    var items = [];
+    var itemData = this.data.events;
+    _.each(data, function(index){
+      items.push(itemData[index]);
+    });
+
+    if (items.length) this.$eventsContainer.addClass("active");
+    else this.$eventsContainer.removeClass("active");
+
+    var $items = $("<div />");
+    _.each(items, function(item){
+      $items.append($('<p><a href="'+item.url+'">'+item.title+'</a></p>'));
+    });
+    this.$events.html($items);
+  }
 
   App.prototype.renderExpeditions = function(data){
     if (data.length > this.opt.maxItems) {

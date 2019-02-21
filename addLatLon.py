@@ -79,19 +79,20 @@ fieldNames, eacData = io.readCsv(a.INPUT_FILE)
 for key in keysToAdd:
     if key not in fieldNames:
         fieldNames.append(key)
-eacData = [e for e in eacData if e["type"]=="Expedition"]
+# eacData = [e for e in eacData if e["type"]=="Expedition"]
 entryCount = len(eacData)
 
 for i, entry in enumerate(eacData):
-    for key in placeKeys:
-        lon, lat, match = findPlace(entry[key], countries+states)
-        if match:
-            eacData[i].update({
-                "lon": lon,
-                "lat": lat,
-                "match": match
-            })
-            break
+    if entry["type"]=="Expedition":
+        for key in placeKeys:
+            lon, lat, match = findPlace(entry[key], countries+states)
+            if match:
+                eacData[i].update({
+                    "lon": lon,
+                    "lat": lat,
+                    "match": match
+                })
+                break
 
     sys.stdout.write('\r')
     sys.stdout.write("%s%%" % round(1.0*(i+1)/entryCount*100,2))
