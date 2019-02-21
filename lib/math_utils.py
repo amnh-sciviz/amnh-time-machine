@@ -1,4 +1,17 @@
 
+def lim(value, ab=(0, 1)):
+    a, b = ab
+    return max(a, min(b, value))
+
+def norm(value, ab, limit=False):
+    a, b = ab
+    n = 0.0
+    if (b - a) != 0:
+        n = 1.0 * (value - a) / (b - a)
+    if limit:
+        n = lim(n)
+    return n
+
 def parseNumber(string, alwaysFloat=False):
     try:
         num = float(string)
