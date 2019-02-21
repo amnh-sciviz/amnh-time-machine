@@ -1,6 +1,63 @@
 import re
 import lib.math_utils as mu
 
+def getDateEntryXML(el):
+    dateEntry = {}
+
+    dparent = el.parent
+    if dparent.name in ["dateset", "daterange"]:
+        dparent = dparent.parent
+    dateEntry["datetype"] = dparent.name
+
+    # parse date value
+    dateValue = ""
+    if date.has_attr("standarddate"):
+        dateValue = date.get("standarddate").strip()
+    else:
+        dateValue = date.string.strip()
+    dateEntry[el.name] = dateValue
+
+    # look for event
+    event = dparent.find("event")
+    description = ""
+    if event:
+        description = event.string.strip()
+    dateEntry["dateevent"] = description
+
+    # look for names
+    if dparent.parent.name == "nameentry":
+        dateEntry["datename"] = getNameFromXML(dparent.parent)
+
+    # look for relation
+    if dparent.name == "cpfrelation":
+        dateEntry["daterelation"] = getRelationFromXML(dparent)
+
+    # look for place
+    dateEntry["dateplace"] = getPlaceFromXML(dparent.parent.find("place"))
+
+    return dateEntry
+
+def getNameFromXML(el):
+    if not el:
+        return ""
+    name = []
+    parts = el.find_all("part")
+    for part in parts:
+        name.append(part.string.strip())
+    return " ".join(name)
+
+def getPlaceFromXML(el):
+    if not el:
+        return ""
+    entry = el.find("placeentry")
+    return entry.string.strip() if entry else ""
+
+def getRelationXML(el):
+    if not el:
+        return ""
+    entry = el.find("relationentry")
+    return entry.string.strip() if entry else ""
+
 def getTypes():
     return {
         "amnhc_0": "Museum",
@@ -40,8 +97,6 @@ def stringsToDateRange(ddate, dfrom, dto, title=None):
             yFrom, yTo = tuple([int(m) for m in match.split("-")])
 
     return (yFrom, yTo)
-
-
 
 def stringToYear(dstring):
     year = -1
