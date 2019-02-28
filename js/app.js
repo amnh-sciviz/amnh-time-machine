@@ -5,7 +5,7 @@ var App = (function() {
   function App(config) {
     var defaults = {
       "dataUrl": "data/ui.json",
-      "startYear": 2016,
+      "startYear": 1935,
       "maxItems": 18,
       "maxExpeditions": 20
     };
@@ -75,18 +75,18 @@ var App = (function() {
     preloadImages(_.pluck(data.logos, 'image'));
 
     // load slider
-    var $handle = $("#custom-handle");
+    var $handleText = $("#handle-text");
     $("#slider").slider({
       min: _this.yearStart,
       max: _this.yearEnd,
       value: _this.opt.startYear,
       create: function() {
         var value = $(this).slider("value");
-        $handle.text(value);
+        $handleText.text(value);
         _this.onSlide(value);
       },
       slide: function( event, ui ) {
-        $handle.text(ui.value);
+        $handleText.text(ui.value);
         _this.onSlide(ui.value);
       }
     });
@@ -136,8 +136,13 @@ var App = (function() {
       items.push(itemData[index]);
     });
 
-    if (items.length) this.$eventsContainer.addClass("active");
-    else this.$eventsContainer.removeClass("active");
+    // if (items.length) this.$eventsContainer.addClass("active");
+    // else this.$eventsContainer.removeClass("active");
+
+    if (!items.length) {
+      this.$events.html($('<p>No events this year</p>'));
+      return;
+    }
 
     var $items = $("<div />");
     _.each(items, function(item){
