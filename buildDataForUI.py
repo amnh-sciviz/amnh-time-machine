@@ -12,7 +12,7 @@ import lib.io_utils as io
 
 # input
 parser = argparse.ArgumentParser()
-parser.add_argument('-fdir', dest="FLOOR_PLANS_DIR", default="data/floor_plans/%s/*.png", help="Directory with floor plans")
+parser.add_argument('-fdir', dest="FLOOR_PLANS_DIR", default="img/floor_plans/%s/*.png", help="Directory with floor plans")
 parser.add_argument('-rdir', dest="REPORTS_DIR", default="img/annual_reports/%s.jpg", help="Directory with reports")
 parser.add_argument('-ldir', dest="LOGOS_DIR", default="img/logos/*.png", help="Directory with logos")
 parser.add_argument('-idir', dest="ITEMS_DIR", default="img/historic_thumbnails/%s.jpg", help="Directory with items")
